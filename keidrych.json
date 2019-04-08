@@ -172,50 +172,5 @@
 			"awarder": "Network Ten Intensify",
 			"summary": "Co-sponsored after presenting Taylored Technology's Micro-PaaS technology"
 		}
-	],
-	"skills": [
-		{
-			"name": "Cloud Native",
-			"keywords": [
-				"Bare Metal Clusters",
-				"Cluster & Container Monitoring",
-				"Container Networking Interface",
-				"Container Storage Interface",
-				"ContainerD",
-				"Containerization",
-				"Governance",
-				"Hybrid Cloud",
-				"Security",
-				"HyperConverged Storage",
-				"Kubernetes",
-				"MicroServices",
-				"Orchestration",
-				"Persistence",
-				"Traffic Management"
-			]
-		},
-		{
-			"name": "Analytical",
-			"keywords": [
-				"Debian",
-				"Alpine",
-				"Linux From Scratch",
-				"NIX (package manager)",
-				"Skarnet S6",
-				"Process Management"
-			]
-		}
-	],
-	"interests": [
-		{
-			"name": "Wildlife",
-			"keywords": ["Ferrets", "Unicorns"]
-		}
-	],
-	"references": [
-		{
-			"name": "Jane Doe",
-			"reference": "Reference..."
-		}
 	]
 }
