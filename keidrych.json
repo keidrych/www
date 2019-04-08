@@ -6,7 +6,7 @@
 		"email": "keidrych.oates@gmail.com",
 		"phone": "+61 407 137 451",
 		"website": "http://keidrych.com",
-		"summary": "This is my quest; to reach a world of adaptivity, where ubiquitous computing is as natural as breathing.\n\nThe embarkation, and the journey's path is enabling companies to embrace a culture of innovation, uphold the highest technological craftsmanship, and transition to cloud nativity with fog computing.\n\nInternational corporations such as Vodafone Hutchinson, CIMB, NTT Data, and Virgin Australia are counted among satisfied clients.\n\nAvailable for Contracting / Consulting Engagements",
+		"summary": "This is my quest; to reach a world of adaptivity, where ubiquitous computing is as natural as breathing.\n\nThis world of adaptivity enables companies to; embrace a culture of innovation; uphold the highest technological craftsmanship; and transition to cloud nativity with fog computing.\n\nInternational corporations such as Vodafone Hutchinson, CIMB, NTT Data, and Virgin Australia are counted among the list of satisfied clients.\n\nAvailable for Contracting / Consulting / Speaking Engagements",
 		"location": {
 			"postalCode": "4007",
 			"city": "Hamilton",
@@ -46,7 +46,7 @@
 			"website": "http://tattsgroup.com",
 			"startDate": "2017-10-25",
 			"endDate": "2018-08-31",
-			"summary": "Actively recruited uplift business confidence in the internal team and Kubernetes by stabilizing on-premises Kubernetes while architecting suitable Kubernetes in AWS. Secondarily implementing a full development platform and wrap-around extension of CI/CD processes through Cloud Native approaches. ",
+			"summary": "Actively recruited to uplift business confidence in the internal team and Kubernetes by stabilizing on-premises Kubernetes while architecting suitable Kubernetes in AWS. Secondarily implementing a full development platform and wrap-around extension of CI/CD processes through Cloud Native approaches. ",
 			"highlights": [
 				"Stakeholder management via structured training sessions about key benefits and concerns of Kubernetes at scale.",
 				"Hybrid Multi-Cloud implementation of Kubernetes spanning multiple on-premises data centers and AWS regions. As disaster recovery and business continuity were a critical concern of Max Gaming, it was necessary to prove applications are capable of continued operation despite cloud provider or region failure",
@@ -96,6 +96,13 @@
 	],
 	"volunteer": [
 		{
+			"organization": "Robotic Process Automation Conference (Brisbane)",
+			"position": "Speaker",
+			"startDate": "2019-03-15",
+			"endDate": "2019-03-16",
+			"summary": "A conference specifically targeted at Artifical Intelligence, Machine Learning and high levels of autonomy thorughout organizaitons."
+		},
+		{
 			"organization": "Cyvive",
 			"position": "Chief Research Officer",
 			"website": "http://www.cyvive.io/",
@@ -143,7 +150,7 @@
 			"area": "Mechanical, Electrical & Information Technology (Infomechatronics)",
 			"studyType": "Bachelor of Engineering",
 			"startDate": "2000-01-01",
-			"endDate": "2013-12-01"
+			"endDate": "2003-12-01"
 		},
 		{
 			"institution": "Toastmasters International",
