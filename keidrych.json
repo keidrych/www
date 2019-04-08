@@ -1,0 +1,221 @@
+{
+	"basics": {
+		"name": "Keidrych Anton-Oates",
+		"label": "Cloud Agnostic Architect & Entrepreneur for Ubiquitous / Fog Computing",
+		"picture": "./images/keidrych.jpg",
+		"email": "keidrych.oates@gmail.com",
+		"phone": "+61 407 137 451",
+		"website": "http://keidrych.com",
+		"summary": "This is my quest; to reach a world of adaptivity, where ubiquitous computing is as natural as breathing.\n\nThe embarkation, and the journey's path is enabling companies to embrace a culture of innovation, uphold the highest technological craftsmanship, and transition to cloud nativity with fog computing.\n\nInternational corporations such as Vodafone Hutchinson, CIMB, NTT Data, and Virgin Australia are counted among satisfied clients.\n\nAvailable for Contracting / Consulting Engagements",
+		"location": {
+			"postalCode": "4007",
+			"city": "Hamilton",
+			"countryCode": "AU",
+			"region": "Queensland"
+		},
+		"profiles": [
+			{
+				"network": "Twitter",
+				"username": "keidrych",
+				"url": "http://twitter.com/keidrych"
+			}
+		]
+	},
+	"work": [
+		{
+			"company": "Virgin Australia",
+			"position": "DevSecOps mentor with authoritative scope of the Information Technology department",
+			"website": "http://virginaustralia.com",
+			"startDate": "2018-10-22",
+			"endDate": "2019-04-12",
+			"summary": "",
+			"highlights": [
+				"Replaced Oracle Service Bus with more cost effective Cloud Native architecture, providing a scalable vehicle for their transition to the cloud",
+				"Compressed development times from 1 week per feature to 2 days on similar features",
+				"Directly aligned business functionality with developed features through 100% algorithmic test coverage on all new code",
+				"Baselined all development environments, including developer machines to use tools of choice while maintaining immutability of container build process, eliminating the 'it works on my machine' paradigm",
+				"Enabled Zero Impact deployments by imparting knowledge of backwards compatibility architecture for internal and external MicroServices simultaneously",
+				"Optimized the technology stack for Kubernetes introduction as part of 2020 goals",
+				"Stabilized logging approaches around the 'Common Log Format' standard, with centralized logging, reducing mean time to repair of defects",
+				"Simplified base container management from a complex interleaving of 6 repositories per image with Ansible to a single highly secure, cache optimized and extensible image using NIX, reducing cluster disk operating costs by 20%, while reducing the download time of updated images by 90%"
+			]
+		},
+		{
+			"company": "Max Gaming (Tatts Group)",
+			"position": "Kubernetes & Data Resilience Architect for Gaming in the state of New South Wales",
+			"website": "http://tattsgroup.com",
+			"startDate": "2017-10-25",
+			"endDate": "2018-08-31",
+			"summary": "Actively recruited uplift business confidence in the internal team and Kubernetes by stabilizing on-premises Kubernetes while architecting suitable Kubernetes in AWS. Secondarily implementing a full development platform and wrap-around extension of CI/CD processes through Cloud Native approaches. ",
+			"highlights": [
+				"Stakeholder management via structured training sessions about key benefits and concerns of Kubernetes at scale.",
+				"Hybrid Multi-Cloud implementation of Kubernetes spanning multiple on-premises data centers and AWS regions. As disaster recovery and business continuity were a critical concern of Max Gaming, it was necessary to prove applications are capable of continued operation despite cloud provider or region failure",
+				"Database and Persistent Storage Kubernetes cluster, with rock solid resilience to all types of data corruption. To put the complexity in perspective, Max Gaming had a business requirement to hot store and replay all Kafka events for 15 years direct from the Kafka ques' the events arrived in. A requirement well outside standard Kafka design guidelines.",
+				"100% Kubernetes controlled deployment environments providing automatic resource condensation (CPU & Memory), dependency management and persistent storage. Providing the foundation for disposable developer environments.",
+				"Monitoring of all interactions, from cluster audit logs through to application breakout events with automated response actions. Providing a level of trust in container orchestration vs traditional Virtual Machines (VM) suitable as a semi-automated assistance process for security teams familiarizing themselves with containerization"
+			]
+		},
+		{
+			"company": "Flight Centre",
+			"position": "Kubernetes & Cloud Native Architect for DIY management",
+			"website": "http://flightcentre.com.au",
+			"startDate": "2017-04-06",
+			"endDate": "2017-08-11",
+			"summary": "Provided an Enterprise Grade Kubernetes implementation in AWS with awareness of availability Zones and Fault Tolerance at the Region / Data Center level",
+			"highlights": [
+				"Cluster installed and all applications started within 60 minutes, enabling for the first time in Flight Center's operation history a fixed cost for disaster recovery",
+				"Enabled 'Stateful' services in-cluster, 12 months prior to Kubernetes officially offering Stateful service support.",
+				"Full Secret management system in-cluster, enabling a GitFlow type of operation, reducing turnaround time between development and production deployments",
+				"Machine Learning security scanning, verifying compliance for ISM, PCI and PII scenarios. Enabling cost savings through reduction of external audit frequency",
+				"Pioneered concept of 'production', and 'everything else'. Reducing infrastructure operating costs by 50% without sacrificing security or compliance",
+				"Independent development environments based on GitFlow branches, allowed collaboration between developers and surety that applications were compatible with eachother"
+			]
+		},
+		{
+			"company": "Vodafone Hutchinson",
+			"position": "Hardware Automation & Continuous Integration Specialist",
+			"website": "https://www.vodafone.com.au",
+			"startDate": "2016-01-01",
+			"endDate": "2016-07-30",
+			"summary": "Secure Mobile Device Automation. Physical devices were placed in remote data-centers, based geographically on clients needs. Without rooting the device full Operating System and Application level automation was possible. Achieved in conjunction with Perfecto Mobile"
+		},
+		{
+			"company": "Micro-PaaS",
+			"position": "12 Factor & Performance Architect for Cloud Infrastructure",
+			"startDate": "2014-06-01",
+			"endDate": "2016-08-01",
+			"summary": "Taylored Technology's first product, a WordPress powered Micro-PaaS focused on Start-Up business we were one of the early Docker adopters operating large-scale automated clustered deployments.\n\nThis technology was retired when Kubernetes 1.6 was released and Fathomable created in its stead",
+			"highlights": [
+				"Each website able to handle 1 Billion Hits per Month without caching, while running up to 160,000 lines of code on 512Mb servers. This resulted in the cheapest to run, most reliable and scalable WordPress hosting technology of the time",
+				"Automated detection of real users vs spam-bots for registration. Increasing the business value of clients websites, and reducing overhead costs of contacting many false users",
+				"Daily production releases for all websites. Zero day exploits are frequent and of strong concern in WordPress, by having a fully automatic testing and deployment system for all clients websites client brand reputation was maintained",
+				"No Hacked Websites. WordPress accounting for 30% of all websites on the internet at the time, made hacking a major target, even actively targeted client websites were unable to be hacked on our infrastructure.",
+				"Uplifted WordPress from its Legacy Status to 12 Factor Compliant, enabling native container adoption, and the core performance necessary to run at this platforms scale"
+			]
+		}
+	],
+	"volunteer": [
+		{
+			"organization": "Cyvive",
+			"position": "Chief Research Officer",
+			"website": "http://www.cyvive.io/",
+			"startDate": "2018-06-01",
+			"summary": "Provide the business alignment between the underlying technology and customer needs against Kubernetes, the fastest growing project in Open Source history.\n\nCyvive is primarily comprised of three components: Immutable Platform; EcoSystem of Kubernetes compatible Cloud Native components; and Change Governance. Some of my involvement is highlighted below:",
+			"highlights": [
+				"[ Platform ]: Totally Immutable approach to running Kubernetes, empowers efficiency of requiring only one person per cloud provider as opposed to a traditional team of 5+ dedicated engineers",
+				"[ Platform ]: Most secure Kubernetes distribution, allowing security to sleep better at night",
+				"[ Platform ]: System vs application resource awareness, direct impact to cloud costs, expected cluster sizing and workload stability through preventing resource starvation.",
+				"[ Platform ]: Stability at scale, over 1 million containers orchestrated and managed in a single cluster, unlocking infrastructure optimization pathways for scale and margin previously unknown to organizations.",
+				"[ EcoSystem ]: Maintain commercial relationships between 'Best in Breed' recommendations of Kubernetes compatible Cloud Native components",
+				"[ Governance ]: Extended to support multi-cloud provider strategies, enabling significant cost savings "
+			]
+		},
+		{
+			"organization": "Fathomable",
+			"position": "Chief Research Officer",
+			"startDate": "2016-09-01",
+			"endDate": "2019-02-01",
+			"summary": "As the original author, I spearheaded the process of bringing the technology from implementation to the common MicroServices descriptive language it is today through forming multiple industry and university partnerships.\n\nProduct has been merged as 'Governance' in Cyvive.",
+			"highlights": [
+				"Original author of the premiere governance process and language for MicroServices",
+				"Co-ordinated 3 Universities and 35 Industry publications to create the configuration language, enabling rapid adoption through enterprise with minimal disruption",
+				"Author of Machine Learning via Prioritized Graph to ensure all MicroService dependencies were available prior to starting the MicroService. Reducing standard infrastructure team involvement in deployments by 50%.",
+				"Extended the Graph technology to allow developers to co-develop in an isolated copy of real production like services. Eliminating the need for high powered development machines, and enabling concurrent development on an unlimited number of MicroServices without the now legacy co-ordination efforts of hundreds of Continuous Integration (CI) pipelines",
+				"Ultimately enabled companies using Kubernetes to deploy their entire organizations technology resources under 60 minutes in the event of failure"
+			]
+		},
+		{
+			"organization": "Various Open Source Repositories",
+			"position": "Custodian",
+			"startDate": "2016-11-01",
+			"endDate": "2018-11-01",
+			"summary": "Primary custodian on various open source code repositories, totalling over 50,000 lines of code. Many of these have transitioned to closed source as part of the owner's venture capitalist model",
+			"highlights": [
+				"Introduced the concept of configuration based CodeMods allowing each repository to be managed en masse.",
+				"Diverted Continuous Integration (CI) to Google Cloud Builder, encouraging code contribution from the community as 150 minutes of free build time was now available per day",
+				"Most complex project had 16 build steps aggregating and morphing 8 independent repositories into a single binary executable, 30,000 lines of code post automatic merge and squash of codebase"
+			]
+		}
+	],
+	"education": [
+		{
+			"institution": "Queensland University of Technology",
+			"area": "Mechanical, Electrical & Information Technology (Infomechatronics)",
+			"studyType": "Bachelor of Engineering",
+			"startDate": "2000-01-01",
+			"endDate": "2013-12-01"
+		},
+		{
+			"institution": "Toastmasters International",
+			"area": "Advanced Toastmaster Gold, Competent Leader",
+			"studyType": "Public Speaking & Leadership",
+			"startDate": "2000-01-01",
+			"endDate": "2006-12-01"
+		},
+		{
+			"institution": "Princeton University",
+			"area": "Advanced Placement Scholar",
+			"startDate": "1999-01-01",
+			"endDate": "1999-12-01"
+		}
+	],
+	"awards": [
+		{
+			"title": "Top 10 Containerization",
+			"date": "2018-09-06",
+			"awarder": "TechCrunch Disrupt - USA",
+			"summary": "As the sole author of Cyvive.io's beta release. An infusing of security, immutability and deep optimization of Kubernetes. Resulted in this recognition."
+		},
+		{
+			"title": "Seen on Channel 10, 11 and One",
+			"date": "2018-09-06",
+			"awarder": "Network Ten Intensify",
+			"summary": "Co-sponsored after presenting Taylored Technology's Micro-PaaS technology"
+		}
+	],
+	"skills": [
+		{
+			"name": "Cloud Native",
+			"keywords": [
+				"Bare Metal Clusters",
+				"Cluster & Container Monitoring",
+				"Container Networking Interface",
+				"Container Storage Interface",
+				"ContainerD",
+				"Containerization",
+				"Governance",
+				"Hybrid Cloud",
+				"Security",
+				"HyperConverged Storage",
+				"Kubernetes",
+				"MicroServices",
+				"Orchestration",
+				"Persistence",
+				"Traffic Management"
+			]
+		},
+		{
+			"name": "Analytical",
+			"keywords": [
+				"Debian",
+				"Alpine",
+				"Linux From Scratch",
+				"NIX (package manager)",
+				"Skarnet S6",
+				"Process Management"
+			]
+		}
+	],
+	"interests": [
+		{
+			"name": "Wildlife",
+			"keywords": ["Ferrets", "Unicorns"]
+		}
+	],
+	"references": [
+		{
+			"name": "Jane Doe",
+			"reference": "Reference..."
+		}
+	]
+}

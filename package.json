@@ -1,0 +1,37 @@
+{
+	"name": "resumes",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"dependencies": {
+		"jsonresume-theme-eloquent": "^4.1.0",
+		"markdown-pdf": "^9.0.0",
+		"prettier": "^1.16.4"
+	},
+	"devDependencies": {},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "",
+	"license": "ISC",
+	"xo": {
+		"globals": [
+			"config"
+		],
+		"ignores": [
+			"python_modules/"
+		],
+		"prettier": true,
+		"rules": {
+			"camelcase": "off",
+			"generator-star-spacing": "off",
+			"import/no-extraneous-dependencies": "off",
+			"import/no-unassigned-import": "off",
+			"import/no-unresolved": "off",
+			"import/order": "off",
+			"no-warning-comments": "off",
+			"operator-linebreak": "off"
+		},
+		"semicolon": false
+	}
+}
