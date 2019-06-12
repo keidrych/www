@@ -6,7 +6,7 @@
 		"email": "keidrych.oates@gmail.com",
 		"phone": "+61 407 137 451",
 		"website": "http://keidrych.com",
-		"summary": "This is my quest; to reach a world of adaptivity, where ubiquitous computing is as natural as breathing.\n\nThis world of adaptivity enables companies to; embrace a culture of innovation; uphold the highest technological craftsmanship; and embarce foggy cloud structures.\n\nInternational corporations such as Vodafone Hutchinson, CIMB, NTT Data, and Virgin Australia are counted among the list of satisfied clients.\n\nAvailable World-Wide for Contracting / Consulting / Speaking Engagements",
+		"summary": "This is my quest; to reach a world of adaptivity, where ubiquitous computing is as natural as breathing.\n\nThis world of adaptivity enables companies to; embrace a culture of innovation; uphold the highest technological craftsmanship, and embrace foggy cloud structures.\n\nInternational corporations such as Vodafone Hutchinson, CIMB, NTT Data, and Virgin Australia are counted among the list of satisfied clients.\n\nAvailable World-Wide for Contracting / Consulting / Speaking Engagements",
 		"location": {
 			"postalCode": "4007",
 			"city": "Hamilton",
@@ -28,7 +28,7 @@
 			"website": "http://cyvive.com",
 			"startDate": "2014-03-13",
 			"endDate": "2019-06-11",
-			"summary": "A Research & Development Company focused on accelerating ubiquitous computing in both Public and Private Providers. While enabling Cloud Computing approaches in Bare Metal and Fog Computing environments."
+			"summary": "Research & Development focused on accelerating ubiquitous computing in both Public and Private Providers while enabling Cloud Computing approaches in Bare Metal and Fog Computing environments."
 		}
 	],
 	"volunteer": [
@@ -37,7 +37,7 @@
 			"position": "Cloud Computing",
 			"website": "http://www.cyvive.io/",
 			"startDate": "2018-06-01",
-			"summary": "Providers: Bare Metal, AWS, GCP, Alibaba, Azure\nSituation: Cloud Native Computing Foundation (CNCF) in advanced implementations (enterprise) assumes companies have well established CI approaches following GitOps while requiring IaaC, CD, MicroService Governance and Kubernetes to operate as a Data Center replacement.\nOutcome: Cyvive allows MicroService Governance & CD to be implemented in any Kubernetes installation, or upgrade and optimize Cloud Providers to enable Kubernetes as a Data Center replacement. Cyvive is comprised of three components: Immutable Platform; EcoSystem of Kubernetes Components; and Change Governance using 'Fathomable MicroService Configuration Language'.",
+			"summary": "Providers: Bare Metal, AWS, GCP, Alibaba, Azure\nSituation: Cloud Native Computing Foundation (CNCF) in advanced implementations (enterprise) assumes companies have well established CI approaches following GitOps while requiring IaaC, CD, MicroService Governance and Kubernetes to operate as a Data Center replacement.\nOutcome: Cyvive allows MicroService Governance & CD to be implemented in any Kubernetes installation, or upgrade and optimize Cloud Providers to enable Kubernetes as a Data Center replacement.",
 			"highlights": [
 				"[ Dev ]: MicroService Dependency Management, any part of organization dependency tree can be extracted and developed against in development (private or shared) Namespace",
 				"[ Sec ]: Just Enough Linux (JeOS) approach to Host Operating System via LinuxKit",
@@ -51,7 +51,7 @@
 				"[ Ops ]: Shadow Traffic Replication for Production Like Environments. i.e. production -> performance. Enables defect detection prior to true production release",
 				"[ Ops ]: On-Demand AZ or Instance Type upgrade options. Companies choose when to upgrade their Cloud",
 				"[ Ops ]: Automatic healing and resizing of Control Plane",
-				"[ Ops ]: ETCD Persistence & REcovery",
+				"[ Ops ]: ETCD Persistence & Recovery",
 				"[ Ops ]: Infrastructure On Demand for all Environments (Namespaces) at per hour billing resolution",
 				"[ Ops ]: Multiple Kubernetes Clusters able to be managed by one person per Cloud Provider",
 				"[ Ops ]: MicroServices able to move between Geographically Disperse Datacenters seamlessly"
@@ -92,7 +92,7 @@
 			"highlights": [
 				"[ Dev ]: Agreement for NodeJS to be the primary language choice for Cloud Architected Services.",
 				"[ Dev ]: Cloud Agnostic starter kit http://github.com/sotekton/agnostic enabling 100% code coverage & 250% increase in development speed",
-				"[ Dev ]: Zero Impact deployments via MicroService optimized internal and external service backwards compatibility",
+				"[ Dev ]: Zero Impact deployments via MicroService optimized internal and external service backward compatibility",
 				"[ Sec ]: Uplift to Container aware security technology",
 				"[ Sec ]: PII & PCI compliance against Practices",
 				"[ Sec ]: Secure Containers via Just Enough Operating System (JeOS) for 'Development' & 'Production' environments",
@@ -114,10 +114,9 @@
 				"[ Sec ]: Uplift to Container aware security technology",
 				"[ Sec ]: Education sessions deep diving into Kubernetes & Containerization vulnerabilities and how to secure",
 				"[ Sec ]: HashiCorp Vault replaced with GitOps friendly secret encryption for public repos via Provider Key Management System",
-				"Stakeholder management via structured training sessions about key benefits and concerns of Kubernetes at scale.",
 				"[ Ops ]: Hybrid Multi-Cloud implementation of Kubernetes spanning multiple on-premises data centres and AWS regions. As disaster recovery and business continuity were a critical concern of Max Gaming, it was necessary to prove applications are capable of continued operation despite cloud provider or region failure",
 				"[ Ops ]: In-Cluster data redundancy with S3 incremental synchronization",
-				"[ Ops ]: IaaC via Terraform controlled Provision for AWS & GCP with all security hardening, networking and network optimizations enabled",
+				"[ Ops ]: IaaC via Terraform controlled Provision for AWS & GCP with all security hardening, networking, and network optimizations enabled",
 				"[ Ops ]: Istio replacement with Cilium, a more secure IPv6 compatible Hybrid Cloud alternative"
 			]
 		},
@@ -136,7 +135,7 @@
 				"[ Sec ]: GitOps friendly secret encryption for public repos via Provider Key Management System",
 				"[ Sec ]: ISM, PCI & PII Compliance directed design, enabling reduction in external audit frequency",
 				"[ Ops ]: Cluster installed and all applications started within 60 minutes, enabling for the first time a fixed cost for disaster recovery",
-				"[ Ops ]: IaaC via Terraform controlled Provision for AWS & GCP with all security hardening, networking and network optimizations enabled",
+				"[ Ops ]: IaaC via Terraform controlled Provision for AWS & GCP with all security hardening, networking, and network optimizations enabled",
 				"[ Ops ]: Pioneered concept 'production', and 'everything else' via namespace isolation. Reducing infrastructure operating costs by 50% without sacrificing security or compliance"
 			]
 		},
@@ -190,8 +189,8 @@
 			"organization": "Citipower & Powercor",
 			"position": "Fog Computing",
 			"website": "https://www.powercor.com.au/",
-			"startDate": "2011-05-01",
-			"endDate": "2009-04-14",
+			"startDate": "2009-04-14",
+			"endDate": "2011-05-01",
 			"summary": "Situation: Smart Power Meters were to be rolled out by all Electricity Providers within the State of Victoria. Mesh Networking technology was unproven due to IoT being an emerging technology and company due to government mandate had zero tolerance of failure for this $300 million project.\nOutcome: Spent 6 weeks with networking vendor (SilverSpring Networks) to accelerate stability & lifespan of Mesh Networking technology. All Government deadlines were achieved on-time while present on the project"
 		}
 	],
