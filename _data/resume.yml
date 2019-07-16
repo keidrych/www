@@ -50,21 +50,21 @@ volunteer:
       Situation: Cloud Native Computing Foundation (CNCF) in advanced implementations (enterprise) assumes companies have well established CI approaches following GitOps while requiring IaaC, CD, MicroService Governance and Kubernetes to operate as a Data Center replacement.
       Outcome: Cyvive allows MicroService Governance & CD to be implemented in any Kubernetes installation, or upgrade and optimize Cloud Providers to enable Kubernetes as a Data Center replacement.
     highlights:
-      - "[ Dev ]: MicroService Dependency Management, any part of organization dependency tree can be extracted and developed against in development (private or shared) Namespace",
-      - "[ Sec ]: Just Enough Linux (JeOS) approach to Host Operating System via LinuxKit",
-      -	"[ Sec ]: Isolation between Kubernetes & System workloads",
-      - "[ Sec ]: TTY & SSH removed from Nodes as unnecessary in IaaC",
-      - "[ Sec ]: KataContainers for VM Isolation capabilities between Containers",
-      - "[ Sec ]: Zero Trust Secrets",
-      -	"[ Sec ]: Multi-Cluster & Namespace networking isolation",
-      -	"[ Sec ]: Transparent Node <-> Node encryption, developers are safe to use HTTP for MicroServices",
-      -	"[ Sec ]: Policy Enforcement without Mesh Network. fallback to (legacy) ISTIO supported",
-      -	"[ Ops ]: Shadow Traffic Replication for Production Like Environments. i.e. production -> performance. Enables defect detection prior to true production release",
-      -	"[ Ops ]: On-Demand AZ or Instance Type upgrade options. Companies choose when to upgrade their Cloud",
-      -	"[ Ops ]: Automatic healing and resizing of Control Plane",
-      -	"[ Ops ]: ETCD Persistence & Recovery",
-      -	"[ Ops ]: Infrastructure On Demand for all Environments (Namespaces) at per hour billing resolution",
-      -	"[ Ops ]: Multiple Kubernetes Clusters able to be managed by one person per Cloud Provider",
+      - "[ Dev ]: MicroService Dependency Management any part of organization dependency tree can be extracted and developed against in development (private or shared) Namespace"
+      - "[ Sec ]: Just Enough Linux (JeOS) approach to Host Operating System via LinuxKit"
+      -	"[ Sec ]: Isolation between Kubernetes & System workloads"
+      - "[ Sec ]: TTY & SSH removed from Nodes as unnecessary in IaaC"
+      - "[ Sec ]: KataContainers for VM Isolation capabilities between Containers"
+      - "[ Sec ]: Zero Trust Secrets"
+      -	"[ Sec ]: Multi-Cluster & Namespace networking isolation"
+      -	"[ Sec ]: Transparent Node <-> Node encryption developers are safe to use HTTP for MicroServices"
+      -	"[ Sec ]: Policy Enforcement without Mesh Network. fallback to (legacy) ISTIO supported"
+      -	"[ Ops ]: Shadow Traffic Replication for Production Like Environments. i.e. production -> performance. Enables defect detection prior to true production release"
+      -	"[ Ops ]: On-Demand AZ or Instance Type upgrade options. Companies choose when to upgrade their Cloud"
+      -	"[ Ops ]: Automatic healing and resizing of Control Plane"
+      -	"[ Ops ]: ETCD Persistence & Recovery"
+      -	"[ Ops ]: Infrastructure On Demand for all Environments (Namespaces) at per hour billing resolution"
+      -	"[ Ops ]: Multiple Kubernetes Clusters able to be managed by one person per Cloud Provider"
       -	"[ Ops ]: MicroServices able to move between Geographically Disperse Datacenters seamlessly"
   - organization: "Private Startup"
     position: "Cloud Computing"
@@ -75,14 +75,14 @@ volunteer:
       Situation: Rapidly growing startup required an IaaC environment to deploy their entire development stack including CI & CD against different GCP Projects.
       Outcome: IaaC deployed against any GCP project via Terraform from a single 'setup.sh' in the project's multi-repo
     highlights:
-      - "[ Dev ]: CI via Google Cloud Builder",
-      -	"[ Sec ]: VPC with Private Cluster & Private Cloud SQL",
-      -	"[ Sec ]: IaaC provisioning of Service Accounts & Keys",
-      -	"[ Sec ]: Restricted Traffic Ingress",
-      -	"[ Sec ]: Google Cloud KMS for Secrets",
-      -	"[ Sec ]: Google Cloud SQL Proxy with dedicated Service Account for Cluster -> DB Access",
-      -	"[ Ops ]: Lightweight (compared to Cyvive) CD for Namespace management",
-      -	"[ Ops ]: CDN with selective caching for Client facing MicroServices",
+      - "[ Dev ]: CI via Google Cloud Builder"
+      -	"[ Sec ]: VPC with Private Cluster & Private Cloud SQL"
+      -	"[ Sec ]: IaaC provisioning of Service Accounts & Keys"
+      -	"[ Sec ]: Restricted Traffic Ingress"
+      -	"[ Sec ]: Google Cloud KMS for Secrets"
+      -	"[ Sec ]: Google Cloud SQL Proxy with dedicated Service Account for Cluster -> DB Access"
+      -	"[ Ops ]: Lightweight (compared to Cyvive) CD for Namespace management"
+      -	"[ Ops ]: CDN with selective caching for Client facing MicroServices"
       -	"[ Ops ]: Persistence Data through IaaC Teardown and Redeploy of Database"
   - organization: "Fathomable"
     position: "Foggy Governance, MicroService Configuration Language"
@@ -103,15 +103,15 @@ volunteer:
       Situation: Virtual Machine based Java tech stack via Oracle Service Bus on N-Tier & Domain Driven Architecture.
       Outcome: Foundation for Cloud Native Computing Foundation (CNCF) Architecture, with appropriate development practices
     highlights:
-      - "[ Dev ]: Agreement for NodeJS to be the primary language choice for Cloud Architected Services.",
-      -	"[ Dev ]: Cloud Agnostic starter kit http://github.com/sotekton/agnostic enabling 100% code coverage & 250% increase in development speed",
-      -	"[ Dev ]: Zero Impact deployments via MicroService optimized internal and external service backward compatibility",
-      -	"[ Sec ]: Uplift to Container aware security technology",
-      -	"[ Sec ]: PII & PCI compliance against Practices",
-      -	"[ Sec ]: Secure Containers via Just Enough Operating System (JeOS) for 'Development' & 'Production' environments",
-      -	"[ Ops ]: Centralized Logging via 'Common Log Format'",
-      -	"[ Ops ]: Autonomic environments for Developers, Continous Integration & Production Like via NIX",
-      -	"[ Ops ]: Kubernetes as Orchestrator",
+      - "[ Dev ]: Agreement for NodeJS to be the primary language choice for Cloud Architected Services."
+      -	"[ Dev ]: Cloud Agnostic starter kit http://github.com/sotekton/agnostic enabling 100% code coverage & 250% increase in development speed"
+      -	"[ Dev ]: Zero Impact deployments via MicroService optimized internal and external service backward compatibility"
+      -	"[ Sec ]: Uplift to Container aware security technology"
+      -	"[ Sec ]: PII & PCI compliance against Practices"
+      -	"[ Sec ]: Secure Containers via Just Enough Operating System (JeOS) for 'Development' & 'Production' environments"
+      -	"[ Ops ]: Centralized Logging via 'Common Log Format'"
+      -	"[ Ops ]: Autonomic environments for Developers Continous Integration & Production Like via NIX"
+      -	"[ Ops ]: Kubernetes as Orchestrator"
       -	"[ Ops ]: Reduction in Cluster operating costs by 20% & Container Image download time by 90% via graph-based popularity contest for NIX container layers"
   - organization: "Max Gaming (Tatts Group)"
     position: "Cloud Computing"
@@ -123,14 +123,14 @@ volunteer:
       Situation: Developing MicroServices against CNCF architecture without business buy-in & while encountering difficulty in approving the use of Kubernetes due to persistent storage requirements.
       Outcome: All business stakeholders unanimously agreed on using Kubernetes for MicroServices & Storage.
     highlights:
-      - "[ Dev ]: Disposable Developer Environments on-demand with sample data & MicroService dependency management via Cyvive",
-      - "[ Sec ]: Uplift to Container aware security technology",
-      -	"[ Sec ]: Education sessions deep diving into Kubernetes & Containerization vulnerabilities and how to secure",
-      -	"[ Sec ]: HashiCorp Vault replaced with GitOps friendly secret encryption for public repos via Provider Key Management System",
-      -	"[ Ops ]: Hybrid Multi-Cloud implementation of Kubernetes spanning multiple on-premises data centres and AWS regions. As disaster recovery and business continuity were a critical concern of Max Gaming, it was necessary to prove applications are capable of continued operation despite cloud provider or region failure",
-      -	"[ Ops ]: In-Cluster data redundancy with S3 incremental synchronization",
-      -	"[ Ops ]: IaaC via Terraform controlled Provision for AWS & GCP with all security hardening, networking, and network optimizations enabled",
-      -	"[ Ops ]: Istio replacement with Cilium, a more secure IPv6 compatible Hybrid Cloud alternative"
+      - "[ Dev ]: Disposable Developer Environments on-demand with sample data & MicroService dependency management via Cyvive"
+      - "[ Sec ]: Uplift to Container aware security technology"
+      -	"[ Sec ]: Education sessions deep diving into Kubernetes & Containerization vulnerabilities and how to secure"
+      -	"[ Sec ]: HashiCorp Vault replaced with GitOps friendly secret encryption for public repos via Provider Key Management System"
+      -	"[ Ops ]: Hybrid Multi-Cloud implementation of Kubernetes spanning multiple on-premises data centres and AWS regions. As disaster recovery and business continuity were a critical concern of Max Gaming it was necessary to prove applications are capable of continued operation despite cloud provider or region failure"
+      -	"[ Ops ]: In-Cluster data redundancy with S3 incremental synchronization"
+      -	"[ Ops ]: IaaC via Terraform controlled Provision for AWS & GCP with all security hardening networking and network optimizations enabled"
+      -	"[ Ops ]: Istio replacement with Cilium a more secure IPv6 compatible Hybrid Cloud alternative"
   - organization: "Flight Centre"
     position: "Cloud Computing"
     website: "http://flightcentre.com.au"
@@ -141,15 +141,15 @@ volunteer:
       Situation: First Enterprise in Brisbane to implement CNCF & Kubernetes. Lacked any ability to install, integrate or operate Kubernetes.
       Outcome: AZ aware Enterprise Grade Kubernetes implementation with Disaster Recovery & suitable CI/CD pipelines
     highlights:
-      - "[ Dev ]: 'Stateful' services available in-cluster, 12 months ahead of official support Kubernetes support.",
-      - "[ Dev ]: Disposable Developer Environments on-demand with sample data & MicroService dependency management via Cyvive",
-      - "[ Sec ]: Uplift to Container aware security technology",
-      - "[ Sec ]: CoreOS approved as a suitable container host operating system.",
-      - "[ Sec ]: GitOps friendly secret encryption for public repos via Provider Key Management System",
-      - "[ Sec ]: ISM, PCI & PII Compliance directed design, enabling reduction in external audit frequency",
-      - "[ Ops ]: Cluster installed and all applications started within 60 minutes, enabling for the first time a fixed cost for disaster recovery",
-      - "[ Ops ]: IaaC via Terraform controlled Provision for AWS & GCP with all security hardening, networking, and network optimizations enabled",
-      - "[ Ops ]: Pioneered concept 'production', and 'everything else' via namespace isolation. Reducing infrastructure operating costs by 50% without sacrificing security or compliance"
+      - "[ Dev ]: 'Stateful' services available in-cluster 12 months ahead of official support Kubernetes support."
+      - "[ Dev ]: Disposable Developer Environments on-demand with sample data & MicroService dependency management via Cyvive"
+      - "[ Sec ]: Uplift to Container aware security technology"
+      - "[ Sec ]: CoreOS approved as a suitable container host operating system."
+      - "[ Sec ]: GitOps friendly secret encryption for public repos via Provider Key Management System"
+      - "[ Sec ]: ISM, PCI & PII Compliance directed design, enabling reduction in external audit frequency"
+      - "[ Ops ]: Cluster installed and all applications started within 60 minutes enabling for the first time a fixed cost for disaster recovery"
+      - "[ Ops ]: IaaC via Terraform controlled Provision for AWS & GCP with all security hardening networking and network optimizations enabled"
+      - "[ Ops ]: Pioneered concept 'production' and 'everything else' via namespace isolation. Reducing infrastructure operating costs by 50% without sacrificing security or compliance"
   - organization: "Cook Medical (Australia)"
     position: "Cloud Computing"
     website: "https://www.cookmedical.com/"
@@ -168,10 +168,10 @@ volunteer:
       Situation: Security concerns for pre-release mobiles, OS & application upgrade compatibility with existing devices.
       Outcome: Physical devices were placed in remote geographically disperse data-centres. Achieved in partnership with Perfecto Mobile
     highlights:
-      - "[ Dev ]: Operating System and Application level automation without rooting devices",
-      -	"[ Dev ]: CI/CD integration with existing toolsets",
-      -	"[ Sec ]: Co-located data-centers integrated with Telecommunication Equipment & bank level security",
-      -	"[ Sec ]: VPN Capabilities as required on Mobile Devices",
+      - "[ Dev ]: Operating System and Application level automation without rooting devices"
+      -	"[ Dev ]: CI/CD integration with existing toolsets"
+      -	"[ Sec ]: Co-located data-centers integrated with Telecommunication Equipment & bank level security"
+      -	"[ Sec ]: VPN Capabilities as required on Mobile Devices"
       -	"[ Sec ]: On-demand tunnels between Cloud Providers & Device Data Center"
   - organization: "NTT Data (Japan), CIMB (Malaysia)"
     position: "Cloud Computing"
@@ -193,12 +193,12 @@ volunteer:
 
       This technology was retired when Kubernetes 1.6 was released and Fathomable created in its stead
     highlights:
-      - "[ Dev ]: Re-architected WordPress from its Legacy Status to 12 Factor Compliant, enabling native container adoption, and the core performance necessary to run at this platforms scale",
-      -	"[ Dev ]: Automated detection of real users vs spam-bots for registration. Increasing the business value of clients websites, and reducing overhead costs of contacting many false users",
-      - "[ Sec ]: Zero day exploits are frequent and of strong concern in WordPress, by having a fully automatic daily production release testing and deployment system for all clients websites client brand reputation was maintained",
-      -	"[ Sec ]: No Hacked Websites, including actively attacked client websites",
-      -	"[ Ops ]: Early adopter of Containerization, entire infrastructure from CI to CD used Containers",
-      -	"[ Ops ]: Individual websites on the cluster able to handle 1 Billion Hits per Month without caching, the most complex running up to 160,000 lines of PHP code on 512Mb servers."
+      - "[ Dev ]: Re-architected WordPress from its Legacy Status to 12 Factor Compliant enabling native container adoption and the core performance necessary to run at this platforms scale"
+      -	"[ Dev ]: Automated detection of real users vs spam-bots for registration. Increasing the business value of clients websites and reducing overhead costs of contacting many false users"
+      - "[ Sec ]: Zero day exploits are frequent and of strong concern in WordPress by having a fully automatic daily production release testing and deployment system for all clients websites client brand reputation was maintained"
+      -	"[ Sec ]: No Hacked Websites including actively attacked client websites"
+      -	"[ Ops ]: Early adopter of Containerization entire infrastructure from CI to CD used Containers"
+      -	"[ Ops ]: Individual websites on the cluster able to handle 1 Billion Hits per Month without caching the most complex running up to 160000 lines of PHP code on 512Mb servers."
   - organization: "Citipower & Powercor"
     position: "Fog Computing"
     website: "https://www.powercor.com.au/"
