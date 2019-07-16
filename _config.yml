@@ -79,7 +79,7 @@ paginate_path:         /blog/page-:num/
 # ========================================================================================
 
 # Sidebar image and theme color of the site.
-accent_image:          "https://res.cloudinary.com/tayloredtechnology/image/upload/c_scale,w_auto:100,dpr_auto/v1563282615/keidrych.com/bg.jpg"
+accent_image:          "https://res.cloudinary.com/tayloredtechnology/image/upload/c_scale,w_auto:100,dpr_auto,q_auto,f_auto,fl_progressive/v1563282615/keidrych.com/bg.jpg"
 accent_color:          rgb(79,177,186)
 
 # This is used for the `theme-color` meta tag,
