@@ -2,11 +2,11 @@
 <section>
   <div class="npb">
   <h2 id="volunteer" class="h3 faded hr">
-    Projects
+    Project
     <span class="symbol {{ icons.volunteer | default:'icon-earth' }}"></span>
   </h2>
   {% for vol in resume.volunteer %}
-  <section>
+  <section class="no-page-break">
     <header class="{% unless forloop.first %}mt4{% endunless %}">
       {% if vol.startDate.size > 0 %}
         <p class="faded">
