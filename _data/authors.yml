@@ -2,34 +2,32 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              <firstname> <lastname>
-  email:             <mail@domain.tld>
+  name:              Keidrych Anton-Oates
+  email:             keidrych.oates@gmail.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    To help the greater community, I help companies realise the world of adaptivity by making ubiquitous computing as natural as breathing.
 
-    Open `_data/authors.yml` to edit this text.
+    Empowering organizations to optimize Speed, Scale & Margin via foggy cloud structures and innovation with Zero Impact to production systems.
 
   # This photo will be used in the about section
   picture:
-    path:            https://placehold.it/128x128
+    path:            https://res.cloudinary.com/tayloredtechnology/image/upload/c_scale,w_128/v1563282614/keidrych.com/keidrych.jpg
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
-      1x:            https://placehold.it/128x128
-      2x:            https://placehold.it/256x256
+      1x:            https://res.cloudinary.com/tayloredtechnology/image/upload/c_scale,w_128/v1563282614/keidrych.com/keidrych.jpg
+      2x:            https://res.cloudinary.com/tayloredtechnology/image/upload/v1563282614/keidrych.com/keidrych.jpg
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    twitter:         <username>
-    github:          <username>
-    # email:           <mail@domain.tld>
-    # rss:             https://<url>/feed.xml
+    twitter:         keidrych
+    github:          Keidrych
+    email:           keidrych.oates@gmail.com
+    rss:             http://www.keidrych.com/feed.xml
     # facebook:        <username>
     # google:          <number>
     # vk:              <username>
@@ -66,19 +64,19 @@ author1:
     # download:        <url>
 
 # Another author (optional)
-author2:
-  name:              <firtname> <lastname>
-  email:             <mail@domain.tld>
-  about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-    Open `_data/authors.yml` to edit this text.
-  picture:           https://placehold.it/128x128
-  twitter:           <username>
-  github:            <username>
-  accent_color:      '#268bd2'
-  accent_image:
-    background:      '#202020'
-    overlay:         false
+# author2:
+#   name:              <firtname> <lastname>
+#   email:             <mail@domain.tld>
+#   about:             |
+#     Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+#     sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+#
+#     Open `_data/authors.yml` to edit this text.
+#   picture:           https://placehold.it/128x128
+#   twitter:           <username>
+#   github:            <username>
+#   accent_color:      '#268bd2'
+#   accent_image:
+#     background:      '#202020'
+#         overlay:         false
