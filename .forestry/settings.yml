@@ -25,9 +25,9 @@ sections:
   label: Featured categories
   create: all
   match: "**/*"
-upload_dir: assets/img
-public_path: ''
-front_matter_path: ''
+upload_dir: keidrych.com
+public_path: https://res.cloudinary.com/tayloredtechnology/image/upload/c_scale,w_auto:100,dpr_auto
+front_matter_path: https://res.cloudinary.com/tayloredtechnology/image/upload
 use_front_matter_path: true
 file_template: ":filename:"
 build:
