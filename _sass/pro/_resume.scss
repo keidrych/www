@@ -158,10 +158,14 @@
       page-break-after: avoid;
       break-after: avoid-page;
     }
-    header, blockquote, dd, .npb, .no-page-break {
+    header, blockquote, dd {
       page-break-inside: avoid;
       break-inside: avoid-page;
     }
+		.npb {
+      page-break-inside: avoid !important;
+      break-inside: avoid-page !important;
+		}
     .avatar {
       width: 8.5rem;
       height: 8.5rem;
