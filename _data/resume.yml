@@ -13,9 +13,9 @@ basics:
 
     Empowering organizations to optimize Speed, Scale & Margin via foggy cloud structures and innovation with Zero Impact to production systems.
 
-    [ Speed ]: 1 Week @ NTT Data (Japan) eliminated 4 months of overtime commitment per year
-    [ Scale ] : 1 Month @ Cook Medical (Australia) a geographically diverse Google, Azure, VMWare (on-prem) able to operate as a unified single cloud.
-    [ Margin ]: 6 Months @ Vodafone Hutchinson (Australia) direct saving of $1.6 million over 3 years.
+      [ Speed ]: 1 Week @ NTT Data (Japan) eliminated 4 months of overtime commitment per year
+      [ Scale ] : 1 Month @ Cook Medical (Australia) a geographically diverse Google, Azure, VMWare (on-prem) able to operate as a unified single cloud.
+      [ Margin ]: 6 Months @ Vodafone Hutchinson (Australia) direct saving of $1.6 million over 3 years.
 
     Combining the strategic approaches above with a plethora of IT knowledge, I am regularly invited to speak at events such as: CeBit (Australia), Robotic Process Automation (RPA) Brisbane, HackerX (Brisbane), Venture Summit (USA), Chief Data & Analytics Officer (Melbourne), TechCrunch (USA)
 
@@ -214,13 +214,13 @@ education:
     startDate: "2000-01-01"
     endDate: "2003-12-01"
   - institution: "Toastmasters International"
-    area: "Advanced Toastmaster Gold, Competent Leader"
-    studyType: "Public Speaking & Leadership"
+    area: "Advanced Communicator Gold, Competent Leader"
+    studyType: "Public Speaking"
     startDate: "2000-01-01"
     endDate: "2006-12-01"
   - institution: "Princeton University"
-    area: "Advanced Placement Scholar"
-    studyType: "Bachelor"
+    area: "Advanced Placement"
+    studyType: "Scholar"
     startDate: "1999-01-01"
     endDate: "2014-01-01"
 awards:
