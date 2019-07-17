@@ -158,9 +158,9 @@
       page-break-after: avoid;
       break-after: avoid-page;
     }
-    section section, header, blockquote, dd, .npb {
-      page-break-inside: auto;
-      break-inside: auto;
+    header, blockquote, dd, .npb, .no-page-break {
+      page-break-inside: avoid;
+      break-inside: avoid-page;
     }
     .avatar {
       width: 8.5rem;
