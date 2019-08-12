@@ -1,26 +1,16 @@
 ---
 cover: true
-image: /assets/img/hydejack-8.png
+layout: welcome
+title: Who Am I
 hide_description: true
 ---
 
-# Thank You
-Thank you for buying the PRO version of Hydejack! 🎉
+For the greater community, I help companies realise the world of adaptivity by making ubiquitous computing as natural as breathing.
 
-More than one year ago I was looking for a blogging platform but couldn't find it:
-One that would let me write posts in markdown, with my own editor, one that didn't look awful buy modern design standards, and one that felt snappy on a mobile phone.
-That and more is now Hydejack. I hope you enjoy it [as much as I do](https://qwtel.com/).
+Ranked at TechCrunch USA 2018 as one of the World’s Top 10 in Containerization for authoring of Cyvive (Operational & Governance Platform for Kubernetes) and implementing a Configuration & Continuous Delivery Meta Language (Foggy Ubiquity's Language) via collaboration with 3 Universities & 35 Industry Publications as a way to address the looming complexity challenge of DevSecOps.
 
-## First Steps
-Please start by reading the [Documentation]{:.heading.flip-title}.
-Specifically, the chapters below should be relevant now:
+Available for contracting, consulting, speaking engagements such as keynotes, panel discussions, roundtables and workshop sessions.
 
-* [Install]{:.heading.flip-title} --- How to install and run Hydejack.
-* [Upgrade]{:.heading.flip-title} --- You can skip this if you haven't used Hydejack before.
-* [Config]{:.heading.flip-title} --- Once Jekyll is running you can start with basic configuration.
-{:.related-posts.faded}
+<!--posts-->
 
-[documentation]: docs/README.md
-[install]: docs/install.md
-[upgrade]: docs/upgrade.md
-[config]: docs/config.md
+
