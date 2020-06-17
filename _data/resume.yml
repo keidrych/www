@@ -40,11 +40,29 @@ work:
     summary: >
       Research & Development focused on accelerating ubiquitous computing in both Public and Private Providers while enabling Cloud Computing approaches in Bare Metal and Fog Computing environments.
 volunteer:
+  - organization: NBN Co
+    position: Cloud Computing
+    website: "http://www.nbnco.com.au/"
+    startDate: 2019-07-30
+    endDate: ""
+    summary: |
+      Providers: Bare Metal, AWS
+      Situation: NBNCo had multiple Kubernetes clusters on different versions deployed and managed by different teams. NBNCo desired to implement a centralized Kubernetes provisioning system for hundreds of small clusters while respecting operational requirements and optimizing billing.
+      Outcome: Via technology pilot and selective disruption of DC style AWS implementation gained executive support to prototype in NBNCo in-house labratory a hybrid cloud implementation suitable for Active Network workloads
+    highlights:
+      - "[ Dev ]: Architecture of Bare Metal extention to SAP's Kubernetes Gardener via Kubernetes Cluster API"
+      - "[ Dev ]: Introduce Identical / Reproducable Development Environments"
+      - "[ Sec ]: Kubernetes DNS attack protection"
+      - "[ Ops ]: Guide transition from CoreOS to Flatcar Linux"
+      - "[ Ops ]: Automatic nightly suspension & resume of non-production Kubernetes clusters"
+      - "[ Ops ]: Introduce Standardized Base Container at Technology Review Forum & NBNCo internal MeetUp"
+      - "[ Ops ]: Multi-Cluster Mesh"
+      - "[ Ops ]: Unlock NVMe storage full performance when available to Kubernetes Clusters"
   - organization: Cyvive
     position: Cloud Computing
     website: "http://www.cyvive.io/"
     startDate: 2018-06-01
-    endDate: ""
+    endDate: "2019-07-29"
     summary: |
       Providers: Bare Metal, AWS, GCP, Alibaba, Azure
       Situation: Cloud Native Computing Foundation (CNCF) in advanced implementations (enterprise) assumes companies have well established CI approaches following GitOps while requiring IaaC, CD, MicroService Governance and Kubernetes to operate as a Data Center replacement.
@@ -241,24 +259,18 @@ skills:
     level: "Master"
     keywords:
       - "Kubernetes"
-      - "Containeriztion"
+      - "Containerization"
       - "Javascript"
-  - name: "Compression"
-    level: "Master"
-    keywords:
-      - "Mpeg"
-      - "MP4"
-      - "GIF"
 languages:
   - language: "English"
     fluency: "Native speaker"
-interests:
-  - name: "Wildlife"
-    keywords:
-      - "Ferrets"
-      - "Unicorns"
-references:
-  - name: "Erlich Bachman"
-    reference: >
-      It is my pleasure to recommend Richard, his performance working as a consultant for Main St.
-      Company proved that he will be a valuable addition to any company.
+# interests:
+#   - name: "Wildlife"
+#     keywords:
+#       - "Ferrets"
+#       - "Unicorns"
+# references:
+#   - name: "Erlich Bachman"
+#     reference: >
+#       It is my pleasure to recommend Richard, his performance working as a consultant for Main St.
+#       Company proved that he will be a valuable addition to any company.
