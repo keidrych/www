@@ -1,4 +1,4 @@
-// Copyright (c) 2017 Florian Klampfer <https://qwtel.com/>
+// Copyright (c) 2019 Florian Klampfer <https://qwtel.com/>
 
 .layout-resume {
   .clearafter::after {
@@ -158,14 +158,10 @@
       page-break-after: avoid;
       break-after: avoid-page;
     }
-    header, blockquote, dd {
+    section section, header, blockquote, dd, .npb {
       page-break-inside: avoid;
       break-inside: avoid-page;
     }
-		.npb {
-      page-break-inside: avoid !important;
-      break-inside: avoid-page !important;
-		}
     .avatar {
       width: 8.5rem;
       height: 8.5rem;
