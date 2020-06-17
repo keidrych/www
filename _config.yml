@@ -40,7 +40,7 @@ logo:                  "https://res.cloudinary.com/tayloredtechnology/image/uplo
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                Keidrych Anton-Oates
+  name:                Keidrych Anton
   email:               keidrych.oates@gmail.com
   # Used by `jekyll-seo-tag`:
   twitter:             keidrych
