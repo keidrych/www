@@ -1,7 +1,7 @@
 ---
 cover: true
 layout: welcome
-title: Who Am I
+title: For Your Information
 hide_description: true
 ---
 

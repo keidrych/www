@@ -3,6 +3,7 @@ layout: projects
 title: Projects
 show_collection: projects
 description: >
-  This is a demo of the `projects` layout, which is included in the PRO version of Hydejack.
-last_modified_at: 2018-08-03
+  How people are using Hydejack in the real world. 
+  This page is built using the `projects` layout* that you can use yourself to build a portfolio.
+no_groups: true
 ---

@@ -2,8 +2,8 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              Keidrych Anton
-  email:             keidrych.oates@gmail.com
+  name:              Keidrych
+  email:             self@keidrych.fyi
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -26,8 +26,8 @@ author1:
   social:
     twitter:         keidrych
     github:          Keidrych
-    email:           keidrych.oates@gmail.com
-    rss:             http://www.keidrych.com/feed.xml
+    # email:           <mail@domain.tld>
+    # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
     # vk:              <username>
@@ -62,6 +62,7 @@ author1:
     # stumbleupon:     <username>
     # paypal:          <username>
     # download:        <url>
+    # keybase          <username>
 
 # Another author (optional)
 # author2:
@@ -71,12 +72,9 @@ author1:
 #     Lorem ipsum dolor sit amet, consectetur adipiscing elit,
 #     sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 #     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-#
+
 #     Open `_data/authors.yml` to edit this text.
+
 #   picture:           https://placehold.it/128x128
 #   twitter:           <username>
 #   github:            <username>
-#   accent_color:      '#268bd2'
-#   accent_image:
-#     background:      '#202020'
-#         overlay:         false
