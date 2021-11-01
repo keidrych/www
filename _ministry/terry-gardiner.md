@@ -12,14 +12,14 @@ caption: His Honour Judge Chief Magistrate (QUEENSLAND)
 
 ## [Emergent Notice of Demand Re: International Covenant of Civil and Political Rights (ICCPR) Faith-based Accommodation and complaint of restriction of freedoms](/assets/agreements/terry-[gardiner].pdf)
 
+* emailed: 2021-08-13
+* registered post: 2021-09-06; delivered: 2021-09-09 09:26am
+
 <object data="/assets/agreements/terry-[gardiner].pdf" type="application/pdf" width="700px" height="700px">
     <embed src="/assets/agreements/terry-[gardiner].pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/agreements/terry-[gardiner].pdf">Download PDF</a>.</p>
     </embed>
 </object>
-
-* emailed: 2021-08-13
-* registered post: 2021-09-06; delivered: 2021-09-09 09:26am
 
 ### Disagreement to facts
 
