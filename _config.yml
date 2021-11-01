@@ -50,13 +50,13 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Blog
+  - title:             blog
     url:               /blog/
-  - title:             Toils (Projects)
+  - title:             toils (Projects)
     url:               /toils/
-  - title:             Ministry
+  - title:             ministry
     url:               /ministry/
-  - title:             Résumé*
+  - title:             résumé*
     url:               /resume/
 
 # Add links to the footer.
