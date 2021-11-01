@@ -7,7 +7,8 @@ image:
 caption: The Honourable Chief Justice of FEDERAL CIRCUIT AND FAMILY COURT OF AUSTRALIA
 ---
 
-* table of contents {:toc}
+* table of contents
+{:toc}
 
 ## [Emergent Notice of Demand for Accommodation of Faith](/assets/agreements/edvard-william-[alstergren].pdf)
 

@@ -7,7 +7,8 @@ image:
 caption: Minimum knowledge & context for understanding of facts & agreements
 ---
 
-* table of contents {:toc}
+* table of contents
+{:toc}
 
 ## Clarification
 

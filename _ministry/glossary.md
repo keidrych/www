@@ -2,6 +2,8 @@
 layout: project
 title: Glossary of terms*
 date: 2020-02-01 00:01:00 +1000
+image:
+  path: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmn0yoFtfIUWgWjKGCXg2VoxqFContFuukAIND_t6irLntfw5FLHzv44124cxOaGM3578&usqp=CAU"
 caption: Historical explanation of potentially confusing words
 ---
 
