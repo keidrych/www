@@ -2,16 +2,16 @@
 # If you don't have a JSON Resume you can just edit this YAML file instead.
 # See also: <https://jsonresume.org/>.
 basics:
-  name: Keidrych Anton
+  name: Keidrych
   label: Foggy Cloud Architect
   picture: "https://res.cloudinary.com/tayloredtechnology/image/upload/v1563282614/keidrych.com/keidrych.jpg"
-  email: keidrych.anton@gmail.com
+  email: self@keidrych.fyi
   phone: "+61 407 137 451"
-  website: "http://keidrych.com"
+  website: "https://keidrych.fyi"
   summary: |
     For the greater community, I help companies realise the world of adaptivity by making ubiquitous computing as natural as breathing.
 
-    Empowering organizations to optimize Speed, Scale & Margin via foggy cloud structures and innovation with Zero Impact to production systems.
+    Empowering organizations to optimize Speed, Scale & Margin via foggy cloud structures and innovation with Zero Impact on production systems.
 
     -  [ Speed ] 1 Week @ NTT Data (Japan) eliminated 4 months of overtime commitment per year
     -  [ Scale ] 3 months @ Maestro Interactive (USA) 10x improvement in simultaneous interactive live video streams to >1million streams
@@ -21,7 +21,7 @@ basics:
 
     Ranked at TechCrunch USA 2018 as one of the World’s Top 10 in Containerization for authoring of Cyvive (Operational & Governance Platform for Kubernetes) and implementing a Configuration & Continuous Delivery Meta Language (Foggy Ubiquity's Language) via collaboration with 3 Universities & 35 Industry Publications as a way to address the looming complexity challenge of DevSecOps.
 
-    Available for contracting, consulting, speaking engagements such as keynotes, panel discussions, roundtables and workshop sessions.
+    Available for remote-only contracting, consulting, speaking engagements such as keynotes, panel discussions, roundtables and workshop sessions.
   location:
     postalCode: "4350"
     city: Toowoomba
@@ -33,18 +33,36 @@ basics:
       url: "https://twitter.com/keidrych"
 work:
   - company: Sotekton
-    position: "Chief Research Officer: Foggy Clouds"
-    #website: "http://tayloredtechnology.net"
-    startDate: 2014-03-13
-    endDate: ""
+    position: "Chief Research Officer"
+    #website: "http://sotekton.com"
+    startDate: 2011-03-15
+    endDate: 2021-05-31
     summary: >
-      Research & Development focused on (1) accelerating ubiquitous computing in both Public and Private Providers while enabling Cloud Computing approaches in Bare Metal and Fog Computing environments. & (2) AgriTech to simplify the farming experience
+      Not-For-Profit Research & Development focused on (1) accelerating ubiquitous computing in both Public and Private Providers while enabling Cloud Computing approaches in Bare Metal and Fog Computing environments. (2) AgriTech to simplify the farming experience. (3) Artificial Intelligence. (4) Interfaces
 volunteer:
+  # - organization: Insurance Australia Group
+  #   position: Advisory
+  #   website: "https://www.iag.com.au"
+  #   startDate: "2021-06-16"
+  #   endDate: ""
+  #   summary: |
+  #     Providers: AWS, VMWare
+  #     Situation: IAG outgrew their current Kubernetes approach, desiring to closely align with industry standards, create blue/green environments on demand, increase transparent security within the cluster, streamline updates and optimize container utilisation.
+  #     Outcome: (Ongoing) Educational series coupled with architectural review presented to DevSecOps covering Containerization, Kubernetes, NIX, CI & CD. Guidance/assistance with Kubernetes next iteration Proof of Concept and SRE teams.
+  - organization: ANZ Bank
+    position: Advisory
+    website: "https://www.anz.com.au/"
+    startDate: 2020-08-10
+    endDate: 2021-03-23
+    summary: |
+      Providers: GCP
+      Situation: ANZ Bank attempting to construct a next generation bank suitable for Digital and Fiat Currency shedding legacy (mainframe) approaches in favour of a globally distributed cloud first approach. There were significant challenges with disaster recovery, scaling, interaction with existing systems, security, data sovereignty, and code signing. Ideally producing a PaaS style platform for internal development to consume
+      Outcome: Steering towards InfoSec principles & types for rapid development; Identification of all faults/risks with disaster recovery technology including failure scenarios; Introduction of archtype patterns for stable global distributed networking; Upgrade of Istio <--> Kernel networking security
   - organization: NBN Co
     position: Cloud Computing
-    website: "http://www.nbnco.com.au/"
+    website: "https://www.nbnco.com.au/"
     startDate: 2019-07-30
-    endDate: ""
+    endDate: 2021-03-21
     summary: |
       Providers: Bare Metal, AWS
       Situation: NBNCo had multiple Kubernetes clusters on different versions deployed and managed by different teams. NBNCo desired to implement a centralized Kubernetes provisioning system for hundreds of small clusters while respecting operational requirements and optimizing billing.
@@ -76,6 +94,8 @@ volunteer:
       Providers: GCP, Azure
       Situation: As a user interactive live stream provider in various high profile industries such as gaming, music concerts, & grammys there is very little margin for error in the viewers experience. Maestro needed to push beyond their concurrency limits while keeping billing reasonable
       Outcome: 10x growth in live stream concurrency without using a service mesh on Kubernetes. Reduction of costs by 10x while enabling per event cost estimations over daily rates
+    highlights:
+        - "[ Ops ]: First in world to discover & work-around KubeDNS scaling issues at volume with GCP. Help guide/information on GKE about KubeDNS based on discovery & work-around"
   - organization: DoIt International
     position: Advisory
     website: "https://www.doit-intl.com/"
@@ -88,7 +108,7 @@ volunteer:
     position: Cloud Computing
     website: "http://www.cyvive.io/"
     startDate: 2018-06-01
-    endDate: "2019-07-29"
+    endDate: 2019-07-29
     summary: |
       Providers: Bare Metal, AWS, GCP, Alibaba, Azure
       Situation: Cloud Native Computing Foundation (CNCF) in advanced implementations (enterprise) assumes companies have well established CI approaches following GitOps while requiring IaaC, CD, MicroService Governance and Kubernetes to operate as a Data Center replacement.
@@ -112,8 +132,8 @@ volunteer:
       - "[ Ops ]: MicroServices able to move between Geographically Disperse Datacenters seamlessly"
   - organization: "Private Startup"
     position: "Cloud Computing"
-    startDate: "2019-05-27"
-    endDate: "2019-06-10"
+    startDate: 2019-05-27
+    endDate: 2019-06-10
     summary: |
       Providers: GCP
       Situation: Rapidly growing startup required an IaaC environment to deploy their entire development stack including CI & CD against different GCP Projects.
@@ -130,18 +150,18 @@ volunteer:
       - "[ Ops ]: Persistence Data through IaaC Teardown and Redeploy of Database"
   - organization: "Fathomable"
     position: "Foggy Governance, MicroService Configuration Language"
-    startDate: "2016-09-01"
-    endDate: "2019-02-01"
+    startDate: 2016-09-01
+    endDate: 2019-02-01
     summary: |
       Situation: MicroService Dependency, Configuration & Secrets Management was non-existent. A few isolated approaches existed, but nothing with permanence.
       Outcome: Partnering with 3 Universities and 35 Industry Publications, a Universal MicroService Language using Machine Learning was created & Open Sourced.
 
-      Documentation has been merged as 'Governance' in Cyvive.
+      Documentation merged as 'Governance' in Cyvive.
   - organization: "Virgin Australia"
     position: "Cloud Computing"
     website: "http://virginaustralia.com"
-    startDate: "2018-10-22"
-    endDate: "2019-04-12"
+    startDate: 2018-10-22
+    endDate: 2019-04-12
     summary: |
       Providers: VMWare, AWS, Windows Containers
       Situation: Virtual Machine based Java tech stack via Oracle Service Bus on N-Tier & Domain Driven Architecture.
@@ -160,8 +180,8 @@ volunteer:
   - organization: "Max Gaming (Tatts Group)"
     position: "Cloud Computing"
     website: "http://tattsgroup.com"
-    startDate: "2017-10-25"
-    endDate: "2018-08-31"
+    startDate: 2017-10-25
+    endDate: 2018-08-31
     summary: |
       Providers: VMWare, AWS, GCP
       Situation: Developing MicroServices against CNCF architecture without business buy-in & while encountering difficulty in approving the use of Kubernetes due to persistent storage requirements.
@@ -231,7 +251,7 @@ volunteer:
     startDate: "2014-06-01"
     endDate: "2016-08-01"
     summary: |
-      Platforms: Bare Metal, AWS
+      Providers: Bare Metal, AWS
       Situation: WordPress powered Micro-PaaS focused on Start-Up business.
       Outcome: Cheapest to run, most secure, reliable and scalable WordPress hosting technology of the time.
 
@@ -268,7 +288,11 @@ education:
     startDate: "1999-01-01"
     endDate: "2014-01-01"
 awards:
-  - title: "The Foggy Cloud (Founder)"
+  - title: "Sale of Sotekton (ex Taylored Technology)"
+    date: "2019-11-01"
+    awarder: "Manoja Tesch"
+    summary: ""
+  - title: "The Foggy Cloud (Sole Founder)"
     date: "2019-05-29"
     awarder: "MeetUp"
     summary: "Australia's first Ubiquitous Computing MeetUp, in partnership with Michael Page (Brisbane)"
@@ -280,6 +304,30 @@ awards:
     date: "2014-11-13"
     awarder: "Network Ten Intensify"
     summary: "Co-sponsored by Network 10 after presenting Taylored Technology's Micro-PaaS technology"
+  - title: "Rebranding of Ahasai Designs to Taylored Technology (Sole Founder)"
+    date: "2013-03-13"
+    awarder: "Industry / Australian Security & Investment Commission"
+    summary: "Reinvention of Ahasai Designs; expanding scope of Research & Development to include Cloud & Mist Computing"
+  - title: "Corporate Sponsor FreePlay 2011"
+    date: "2011-08-11"
+    awarder: "FreePlay"
+    summary: "Coinciding with Ahasai Designs commercial release of Gangster Snap"
+  - title: "Ahasai Designs (Sole Founder)"
+    date: "2011-03-15"
+    awarder: "Industry / Australian Security & Investment Commission"
+    summary: "Research & Development initially focused on Video Gaming and Artificial Intelligence"
+  - title: "Innovation Cup - Runner Up"
+    date: "2010-07-05"
+    awarder: "CitiPower Powercor"
+    summary: "Introduction of long-service LED lighting for street & site safety"
+  - title: "Birth of an Artificial Intelligence"
+    date: "2006-01-01"
+    awarder: "FOREX"
+    summary: "Successful completion of a adaptive Artificial Intelligence capable of understanding market retracements increasing profit by ten percent on all major FOREX"
+  - title: "International Yacht Racing Trophy"
+    date: "1999-06-06"
+    awarder: "Ras Al Khaimah International Airport"
+    summary: "International yacht race featured in the local state newspaper"
 skills:
   - name: "Cloud Native Computing Foundation"
     level: "Master"

@@ -54,7 +54,7 @@ menu:
     url:               /blog/
   - title:             toils (Projects)
     url:               /toils/
-  - title:             ministry
+  - title:             +ministry
     url:               /ministry/
   - title:             résumé*
     url:               /resume/
