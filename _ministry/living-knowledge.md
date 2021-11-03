@@ -25,11 +25,11 @@ In my duty as the Ezekiel 33 watchman, I offer a fair warning by drawing to your
 ## of a minister and ministerial duty
 
 Yehoshua is the original Hebrew name of Jesus, transliterated through multiple languages until known as Jesus in English (https://youtu.be/rtvtD3cXIyU - Jeff A. Benner)
-    • Yehoshua(Hebrew)
-    • -> Yeshua(Aramaic)
-    • -> Iesous(Greek)
-    • -> Iesus(Latin)
-    • -> Jesus(English)
+* Yehoshua(Hebrew)
+* -> Yeshua(Aramaic)
+* -> Iesous(Greek)
+* -> Iesus(Latin)
+* -> Jesus(English)
 Yehoshua means “YaHWeH(YHWH, the tetragrammaton, the one and only God) saves”, and it is Yehoshua who presented the offer to be his ordained minister according to the way of Yahweh in John 15:16. An offer of grace (Ephesians 2:8-9, Romans 3:10, 6:23, John 10:28) I unequivocally accepted, joining Yehoshua in death and resurrection (John 11:25, 2 Corinthians 5:14-21), and became his living child (John 1:12, Colossians 2:9), a citizen of the kingdom of Yahweh (Ephesians 2:19), abiding together (John 6:53, Romans 8:10, Colossians 1:27, 3:11) with Yehoshua as head of the Church. Yehoshua’s Church is a people walking in the *way of Yahweh* (Colossians 1:10, Matthew 6:14-15, Romans 13:8) (for more information: https://youtube.com/playlist?list=PL106561FCC1F0D629 - Jeff A. Benner), pilgrims moving through but not of this world. (Psalm 39:12, Jeremiah 50:5, Hebrews 11:10, 11:16, 1 Peter 2:11-12, 1 Corinthians 29:15)
 
 I bring to your awareness:
@@ -144,29 +144,38 @@ In gaining knowledge of Yahweh’s disrespect of “persons”, I draw your atte
 **Article 1:**
 1. All peoples have the right of self-determination. By virtue of that right they freely determine their political status and freely pursue their economic, social and cultural development.
 2. All peoples may, for their own ends, freely dispose of their natural wealth and resources without prejudice to any obligations arising out of international economic co-operation, based upon the principle of mutual benefit, and international law. In no case may a people be deprived of its own means of subsistence.
+
 **Article 3:**
 The States Parties to the present Covenant undertake to ensure the equal
 right of men and women (mankind) to the enjoyment of all civil and political rights set forth in the present Covenant.
+
 **Article 4:**
 2. 	No derogation from articles 6, 7, 8 (paragraphs 1 and 2), 11, 15, 16 and 18 may be made under this provision.
+
 **Article 7:**
 	No one shall be subjected to torture or to cruel, inhuman or degrading treatment or punishment. In particular, no one shall be subjected without his free consent to medical or scientific experimentation.
+
 **Article 8:**
 2. 	No one shall be held in servitude.
 3. 	(a) No one shall be required to perform forced or compulsory labour
+
 **Article 11:**
 No one shall be imprisoned merely on the ground of inability to fulfil a
 contractual obligation.
+
 **Article 12:**
 1. Everyone lawfully within the territory of a State shall, within that  territory, have the right to liberty of movement and freedom to choose his residence.
 2. Everyone shall be free to leave any country, including his own.
 The above-mentioned rights shall not be subject to any restrictions except those which are provided by law, are necessary to protect national security, public order (ordre public), public health or morals or the rights and freedoms of others, and are consistent with the other rights recognised in the present Covenant.
 3. 	No one shall be arbitrarily deprived of the right to enter his own country.
+
 **Article 16:**
 	Everyone shall have the right to recognition everywhere as a person before the law. (As of a faith-based necessity of spiritual admonishment, I must waive all such relied upon assumption)
+
 **Article 17:**
 1. No one shall be subjected to arbitrary or unlawful interference with his privacy, family, home or correspondence, nor to unlawful attacks on his honour and reputation.
 2. Everyone has the right to the protection of the law against such interference or attacks.
+
 **Article 18:**
 1. Everyone shall have the right to freedom of thought, conscience and religion. This right shall include freedom to have or to adopt a religion or belief of his choice, and freedom, either individually or in community with others and in public or private, to manifest his religion or belief in worship, observance, practice and teaching.
 2. No one shall be subject to coercion which would impair his freedom to have or to adopt a religion or belief of his choice.
