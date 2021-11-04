@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Terry [Gardener]
+title: Terry [Gardiner]
 date: 2021-06-09 00:01:00 +1000
 image:
   path: "https://upload.wikimedia.org/wikipedia/commons/6/6b/Coat_of_Arms_of_Queensland.svg"
