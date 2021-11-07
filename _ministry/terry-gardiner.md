@@ -17,9 +17,7 @@ caption: His Honour Judge Chief Magistrate (QUEENSLAND)
 * acquiescence: 2021-09-21
 
 <object data="/assets/agreements/living-document/terry-[gardiner].pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="/assets/agreements/living-document/terry-[gardiner].pdf"
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/agreements/living-document/terry-[gardiner].pdf">Download PDF</a>.</p>
-    </embed>
+  <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/agreements/living-document/terry-[gardiner].pdf">Download PDF</a>.</p>
 </object>
 
 ### Disagreement to facts
@@ -33,9 +31,7 @@ caption: His Honour Judge Chief Magistrate (QUEENSLAND)
 Domiciled: CANADA
 
 <object data="/assets/agreements/living-document/witness/terry-[gardiner]/arlin.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="/assets/agreements/living-document/witness/terry-[gardiner]/arlin.pdf"
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/agreements/living-document/witness/terry-[gardiner]/arlin.pdf">Download PDF</a>.</p>
-    </embed>
+  <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/agreements/living-document/witness/terry-[gardiner]/arlin.pdf">Download PDF</a>.</p>
 </object>
 
 #### +minister larry john
@@ -43,9 +39,7 @@ Domiciled: CANADA
 Domiciled: CANADA
 
 <object data="/assets/agreements/living-document/witness/terry-[gardiner]/larry-john.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="/assets/agreements/living-document/witness/terry-[gardiner]/larry-john.pdf"
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/agreements/living-document/witness/terry-[gardiner]/larry-john.pdf">Download PDF</a>.</p>
-    </embed>
+  <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/agreements/living-document/witness/terry-[gardiner]/larry-john.pdf">Download PDF</a>.</p>
 </object>
 
 
