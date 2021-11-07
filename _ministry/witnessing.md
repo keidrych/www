@@ -38,3 +38,11 @@ caption: Witnessing for other +ministers walking the Way of Yahweh
   <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/witnessing/jeremy-val/michaelia-clare-cash.pdf">Download PDF</a>.</p>
 </object>
 
+## UNITED STATES OF AMERICA
+
+### +minister Diane-Marie [Reinhart]
+
+<object data="/assets/witnessing/diane-marie-[reinhart]/jerri-ann-wammes-[miller].pdf" type="application/pdf" width="700px" height="700px">
+  <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/witnessing/diane-marie-[reinhart]/jerri-ann-wammes-[miller].pdf">Download PDF</a>.</p>
+</object>
+

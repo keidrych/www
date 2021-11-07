@@ -38,8 +38,8 @@ Domiciled: CANADA
 
 Domiciled: USA
 
-<object data="/assets/agreements/living-document/witness/edvard-william-[alstergren]/Diane-Marie-Reinhart.pdf" type="application/pdf" width="700px" height="700px">
-  <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/agreements/living-document/witness/edvard-william-[alstergren]/Diane-Marie-Reinhart.pdf">Download PDF</a>.</p>
+<object data="/assets/agreements/living-document/witness/edvard-william-[alstergren]/Diane-Marie-[Reinhart].pdf" type="application/pdf" width="700px" height="700px">
+  <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/agreements/living-document/witness/edvard-william-[alstergren]/Diane-Marie-[Reinhart].pdf">Download PDF</a>.</p>
 </object>
 
 ### Publication of Church Notice
