@@ -179,3 +179,5 @@ _drafts
 *.err
 *.orig
  *.log
+
+*_backup.pdf

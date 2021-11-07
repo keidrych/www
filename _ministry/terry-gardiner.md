@@ -14,10 +14,11 @@ caption: His Honour Judge Chief Magistrate (QUEENSLAND)
 
 * emailed: 2021-08-13
 * registered post: 2021-09-06; delivered: 2021-09-09 09:26am
+* acquiescence: 2021-09-21
 
-<object data="/assets/agreements/terry-[gardiner].pdf" type="application/pdf" width="700px" height="700px">
+<object data="/assets/agreements/living-document/terry-[gardiner].pdf" type="application/pdf" width="700px" height="700px">
     <embed src="/assets/agreements/terry-[gardiner].pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/agreements/terry-[gardiner].pdf">Download PDF</a>.</p>
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/agreements/living-document/terry-[gardiner].pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
@@ -27,6 +28,26 @@ caption: His Honour Judge Chief Magistrate (QUEENSLAND)
 
 ### Known witnesses
 
+#### +minister arlin
+
+Domiciled: CANADA
+
+<object data="/assets/agreements/living-document/witness/terry-[gardiner]/arlin.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="/assets/agreements/living-document/witness/terry-[gardiner]/arlin.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/agreements/living-document/terry-[gardiner].pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
+#### +minister larry john
+
+Domiciled: CANADA
+
+<object data="/assets/agreements/living-document/witness/terry-[gardiner]/larry-john.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="/assets/agreements/living-document/witness/terry-[gardiner]/larry-john.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/agreements/living-document/terry-[gardiner].pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
+
 ### Publication of Church Notice
 
-### Acquiescence
