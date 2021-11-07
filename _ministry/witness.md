@@ -33,7 +33,6 @@ caption: Witnesses & Witnessing of other +ministers walking the Way of Yahweh
 <object data="/assets/witnessing/jeremy-val/micheal-john-fuller.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="/assets/agreements/terry-[gardiner].pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/witnessing/jeremy-val/michael-john-fuller.pdf">Download PDF</a>.</p>
-    </embed>
 </object>
 
 ### David Andrew [Elliot]
