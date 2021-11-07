@@ -23,31 +23,28 @@ caption: Witnesses & Witnessing of other +ministers walking the Way of Yahweh
 #### Bradly Ronald [Hazzard]
 
 <object data="/assets/witnessing/jeremy-val/bradley-ronald-hazzard.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="/assets/agreements/terry-[gardiner].pdf">
+    <embed src="/assets/witnessing/jeremy-val/bradley-ronald-hazzard.pdf"
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/witnessing/jeremy-val/bradley-ronald-hazzard.pdf">Download PDF</a>.</p>
-    </embed>
 </object>
 
-### Micheal John [Fuller]
+#### Micheal John [Fuller]
 
 <object data="/assets/witnessing/jeremy-val/micheal-john-fuller.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="/assets/agreements/terry-[gardiner].pdf">
+    <embed src="/assets/witnessing/jeremy-val/micheal-john-fuller.pdf"
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/witnessing/jeremy-val/michael-john-fuller.pdf">Download PDF</a>.</p>
 </object>
 
-### David Andrew [Elliot]
+#### David Andrew [Elliot]
 
 <object data="/assets/witnessing/jeremy-val/david-andrew-elliot.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="/assets/agreements/terry-[gardiner].pdf">
+    <embed src="/assets/witnessing/jeremy-val/david-andrew-elliot.pdf"
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/witnessing/jeremy-val/david-andrew-elliot.pdf">Download PDF</a>.</p>
-    </embed>
 </object>
 
-### Michaelia Clare [Cash]
+#### Michaelia Clare [Cash]
 
 <object data="/assets/witnessing/jeremy-val/michaelia-clare-cash.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="/assets/agreements/terry-[gardiner].pdf">
+    <embed src="/assets/witnessing/jeremy-val/michaelia-clare-cash.pdf"
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/witnessing/jeremy-val/michaelia-clare-cash.pdf">Download PDF</a>.</p>
-    </embed>
 </object>
 
