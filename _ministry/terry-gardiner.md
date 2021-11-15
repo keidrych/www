@@ -26,7 +26,20 @@ caption: His Honour Judge Chief Magistrate (QUEENSLAND)
 
 ### Known witnesses
 
-#### +minister arlin
+Witnessing pack sent:
+
+* via email: 2021-11-16; opened:
+* registered post: 2021-11-16; delivered: _En Route_
+
+#### +minister Jeremy
+
+Domiciled: AUSTRALIA
+
+<object data="/assets/agreements/living-document/witness/terry-[gardiner]/Jeremy-val-[Young].pdf" type="application/pdf" width="700px" height="700px">
+  <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/agreements/living-document/witness/terry-[gardiner]/Jeremy-val-[Young].pdf">Download PDF</a>.</p>
+</object>
+
+#### +minister Arlin
 
 Domiciled: CANADA
 
@@ -34,12 +47,28 @@ Domiciled: CANADA
   <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/agreements/living-document/witness/terry-[gardiner]/arlin.pdf">Download PDF</a>.</p>
 </object>
 
-#### +minister larry john
+#### +minister Larry John
 
 Domiciled: CANADA
 
 <object data="/assets/agreements/living-document/witness/terry-[gardiner]/larry-john.pdf" type="application/pdf" width="700px" height="700px">
   <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/agreements/living-document/witness/terry-[gardiner]/larry-john.pdf">Download PDF</a>.</p>
+</object>
+
+#### +minister Edward Jay Robin
+
+Domiciled: CANADA
+
+<object data="/assets/agreements/living-document/witness/terry-[gardiner]/edward-jay-robin.pdf" type="application/pdf" width="700px" height="700px">
+  <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/agreements/living-document/witness/terry-[gardiner]/edward-jay-robin.pdf">Download PDF</a>.</p>
+</object>
+
+#### +minister Michael
+
+Domiciled: UNITED KINGDOM
+
+<object data="/assets/agreements/living-document/witness/terry-[gardiner]/Michael-[James-Perry].pdf" type="application/pdf" width="700px" height="700px">
+  <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/agreements/living-document/witness/terry-[gardiner]/Michael-[James-Perry].pdf">Download PDF</a>.</p>
 </object>
 
 

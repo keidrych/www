@@ -26,6 +26,11 @@ caption: The Honourable Chief Justice of FEDERAL CIRCUIT AND FAMILY COURT OF AUS
 
 ### Known witnesses
 
+Witnessing pack sent:
+
+* via email: 2021-11-16; opened:
+* registered post: 2021-11-16; delivered: _En Route_
+
 #### +minister larry john
 
 Domiciled: CANADA
@@ -34,12 +39,20 @@ Domiciled: CANADA
   <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/agreements/living-document/witness/edvard-william-[alstergren]/larry-john.pdf">Download PDF</a>.</p>
 </object>
 
-#### +minister Diane Marie Reinhart
+#### +minister Diane Marie [Reinhart]
 
 Domiciled: USA
 
 <object data="/assets/agreements/living-document/witness/edvard-william-[alstergren]/Diane-Marie-[Reinhart].pdf" type="application/pdf" width="700px" height="700px">
   <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/agreements/living-document/witness/edvard-william-[alstergren]/Diane-Marie-[Reinhart].pdf">Download PDF</a>.</p>
+</object>
+
+#### +minister Michael
+
+Domiciled: USA
+
+<object data="/assets/agreements/living-document/witness/edvard-william-[alstergren]/Michael-[James-Perry].pdf" type="application/pdf" width="700px" height="700px">
+  <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/agreements/living-document/witness/edvard-william-[alstergren]/Michael-[James-Perry].pdf">Download PDF</a>.</p>
 </object>
 
 ### Publication of Church Notice
