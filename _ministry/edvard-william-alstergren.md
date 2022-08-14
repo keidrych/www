@@ -7,6 +7,12 @@ image:
 caption: The Honourable Chief Justice of FEDERAL CIRCUIT AND FAMILY COURT OF AUSTRALIA
 ---
 
+# notice of void agreement
+
+i, a man: keidrych ellipsis; present notice, to state for on the record the wish of i;
+i, state this agreement is void on 13 august 2022 at the time 1725;
+i, wish to archive this webpage on 13 september 2022 at the time 1739;
+
 * table of contents
 {:toc}
 

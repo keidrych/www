@@ -7,6 +7,12 @@ image:
 caption: Minimum knowledge & context for understanding of facts & agreements
 ---
 
+# notice of void agreement
+
+i, a man: keidrych ellipsis; present notice, to state for on the record the wish of i;
+i, state all agreements that enclose this "living document" are void on 13 august 2022 at the time 1725;
+i, wish to archive this webpage on 13 september 2022 at the time 1739;
+
 * table of contents
 {:toc}
 
@@ -18,7 +24,7 @@ I trust you, the peruser, will perceive that my grammatical intent of expressing
 
 ## of correspondence
 
-My name is simply Keidrych. +minister [verb] placed in front as a reflection of my acceptance of Yehoshua’s offer at John 15:16 and to ensure no confusion with a misspelling or use of a title Minister [noun]
+My name is simply keidrych. +minister [verb] placed in front as a reflection of my acceptance of Yehoshua’s offer at John 15:16 and to ensure no confusion with a misspelling or use of a title Minister [noun]
 
 In my duty as the Ezekiel 33 watchman, I offer a fair warning by drawing to your attention that there is an obligation to ensure communication complies with the **General Data Protection Regulation & Australian Privacy Act 1988 (GDPR-APA)** addressed to the intended recipient’s identity. Should you desire to send return correspondence, please ensure it is handled correctly as per my details at the commencement of this letter, without using a postcode, as I will be unable to peruse any mislabeled/addressed correspondence.
 
@@ -181,7 +187,7 @@ The above-mentioned rights shall not be subject to any restrictions except those
 2. No one shall be subject to coercion which would impair his freedom to have or to adopt a religion or belief of his choice.
 3. Freedom to manifest one’s religion or beliefs may be subject only to such limitations as are prescribed by law and are necessary to protect public safety, order, health, or morals or the fundamental rights and freedoms of others.
 
-[Man/Woman], let it be known: I +minister Keidrych, decline the offer presented in Article 16 in accordance with my faith as described throughout this letter. I cannot respect persons.
+[Man/Woman], let it be known: I +minister keidrych, decline the offer presented in Article 16 in accordance with my faith as described throughout this letter. I cannot respect persons.
 
 ## of AUSTRALIAN Legal Framework
 
@@ -223,7 +229,7 @@ Additionally, I carefully use AUSTRALIA in capitals to demonstrate that as of my
 
 ## of legal names
 
-I was lawfully born *Keidrych* to *Charles Stanbury* and *Daryl Cynthia* of the clan *Oates*. Both were followers of Yehoshua at the time of my birth. Early correspondence from the hospital and relatives confirmed my birth name to be *Keidrych* alone. Yet, due to lack of knowledge and awareness, the registrar and hospital staff took it upon themselves to fraudulently alter my name from *Keidrych* of the clan *Oates* to the legal fiction of *OATES, Keidrych Charles Stanbury* or *Keidrych Charles Stanbury of the family OATES*, are both variations of dead in law corporate legal fictitious names of entities for commerce.
+I was lawfully born *keidrych* to *Charles Stanbury* and *Daryl Cynthia* of the clan *Oates*. Both were followers of Yehoshua at the time of my birth. Early correspondence from the hospital and relatives confirmed my birth name to be *keidrych* alone. Yet, due to lack of knowledge and awareness, the registrar and hospital staff took it upon themselves to fraudulently alter my name from *keidrych* of the clan *Oates* to the legal fiction of *OATES, Keidrych Charles Stanbury* or *Keidrych Charles Stanbury of the family OATES*, are both variations of dead in law corporate legal fictitious names of entities for commerce.
 
 The *Oates* clan is one of the oldest in the world, with roots tracing back to the Dacian empire (the foundation of the Roman empire) recognised initially as *Ode, Otta, Ord*. It loosely means “riches at the point of the spear”. Significant contributions or members of history: Archbishop of Bayeux, half-brother of William the Conqueror; the hereditary name of the Saxon ruling house.; and loyal subjects of the throne of England for many years, having bestowed on them a coat of arms, castle, and land.
 
@@ -231,8 +237,8 @@ I, in error, unaware of the ménage à trois involved the dead legal fiction of 
 
 For absolute clarity and to remove all possibility of confusion, I am also writing to the private man or woman acting as the registrar for New Zealand Births, Deaths and Marriages to:
 1. Ensure all dead in law name variations of my private appellation are expunged.
-2. Should a necrophiliac person be force associated upon me, it is and only will be represented as Keidrych Ellipsis(…)
-3. In contravention with my faith, this forced upon dead legal fiction person would only use a Katakanji signature of Keidrych in Katakanji as a stamp (in the likeness of a corporate seal) used three times in red ink. Symbolising the blood of the innocent spilled to transgress the Laws of Yahweh.
+2. Should a necrophiliac person be force associated upon me, it is and only will be represented as keidrych ellipsis(…)
+3. In contravention with my faith, this forced upon dead legal fiction person would only use a Katakanji signature of keidrych in Katakanji as a stamp (in the likeness of a corporate seal) used three times in red ink. Symbolising the blood of the innocent spilled to transgress the Laws of Yahweh.
 
 ## of marriage and divorce
 
@@ -256,7 +262,7 @@ The very wording on a *party certificate* issued on behalf of AUSTRALIA (VICTORI
   * s101  Solemnisation of marriage by unauthorised person
 * ICCPR Article 23(3) No marriage shall be entered into without the free and full consent of the intending spouses.
 
-For transparency, let it be known that under threats and intimidation, in 2012, the person *Keidrych Charles Stanbury Oates* was placed in a frustrated ménage à trois necrophiliac marriage contract with the State of VICTORIA in contravention of the man, *Keidrych's*, faith and beliefs. This contract, as a frustrated contract, is voided as discussed in of assumpsit social contract.
+For transparency, let it be known that under threats and intimidation, in 2012, the person *keidrych charles stanbury oates* was placed in a frustrated ménage à trois necrophiliac marriage contract with the State of VICTORIA in contravention of the man, *keidrych's*, faith and beliefs. This contract, as a frustrated contract, is voided as discussed in of assumpsit social contract.
 
 ## of agents representing dead legal fiction(s)
 

@@ -20,12 +20,12 @@
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Keidrych
+title:                 keidrych
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  The authentic historical record of the man Keidrych, his toils, and
+  The authentic historical record of the man keidrych, his toils, and
   pilgrimage on the Earth walking in the duty of a +minister of Yehoshua
   and the watchman of Ezekiel 33
 
@@ -43,7 +43,7 @@ logo:                  "https://res.cloudinary.com/tayloredtechnology/image/uplo
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                Keidrych
+  name:                keidrych
   email:               self@keidrych.fyi
   # # Used by `jekyll-seo-tag`:
   twitter:             keidrych
@@ -66,7 +66,7 @@ legal:
     url:               "https://creativecommons.org/licenses/by-nc/4.0/"
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:              The content on this website, of which is crafted by +minister Keidrych following direction of Yehoshua on behalf of Yahweh, is licensed under CC BY-NC 4.0
+copyright:              The content on this website, of which is crafted by +minister keidrych following direction of Yehoshua on behalf of Yahweh, is licensed under CC BY-NC 4.0
 
 # Format of the permalinks
 permalink:             /blog/:categories/:year-:month-:day-:title/
@@ -381,10 +381,10 @@ username:            keidrych
 
 # Used on index and about sites
 social:
-  name:                Keidrych
+  name:                keidrych
   links:
     - https://twitter.com/keidrych
-    - https://github.com/Keidrych
+    - https://github.com/keidrych
 
 
 # Plugin Configs

@@ -2,7 +2,7 @@
 # If you don't have a JSON Resume you can just edit this YAML file instead.
 # See also: <https://jsonresume.org/>.
 basics:
-  name: Keidrych
+  name: keidrych
   label: Foggy Cloud Architect
   picture: "https://res.cloudinary.com/tayloredtechnology/image/upload/v1563282614/keidrych.com/keidrych.jpg"
   email: self@keidrych.fyi

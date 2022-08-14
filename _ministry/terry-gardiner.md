@@ -7,6 +7,13 @@ image:
 caption: His Honour Judge Chief Magistrate (QUEENSLAND)
 ---
 
+# notice of void agreement
+
+i, a man: keidrych ellipsis; present notice, to state for on the record the wish of i;
+i, state this agreement is void on 13 august 2022 at the time 1725;
+i, wish to archive this webpage on 13 september 2022 at the time 1739;
+
+
 * table of contents
 {:toc}
 
@@ -28,7 +35,7 @@ caption: His Honour Judge Chief Magistrate (QUEENSLAND)
 
 Witnessing pack sent:
 
-* via email: 2021-11-16; opened:
+* via email: 2021-11-16; opened: 2021-11-17 09:48am
 * registered post: 2021-11-16; delivered: _En Route_
 
 #### +minister Jeremy
@@ -39,7 +46,7 @@ Domiciled: AUSTRALIA
   <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/agreements/living-document/witness/terry-[gardiner]/Jeremy-val-[Young].pdf">Download PDF</a>.</p>
 </object>
 
-#### +minister Arlin
+#### +minister arlin
 
 Domiciled: CANADA
 
@@ -47,7 +54,7 @@ Domiciled: CANADA
   <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/agreements/living-document/witness/terry-[gardiner]/arlin.pdf">Download PDF</a>.</p>
 </object>
 
-#### +minister Larry John
+#### +minister larry john
 
 Domiciled: CANADA
 
