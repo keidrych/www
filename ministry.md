@@ -6,9 +6,3 @@ redirect_from:
   - /ministry/acquiescence/
 ---
 
-## +ministers of Yehoshua's websites
-
-* [+minister Diane Marie Reinhart](http://www.thewaythetruthandthelifedivinejesus.blogspot.com/)
-* [+minister Edward Jay Robin](https://www.allcreatorsgifts.org/)
-* [+minister Jeremy-Val](http://matthew525.org/)
-
