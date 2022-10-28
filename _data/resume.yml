@@ -40,6 +40,15 @@ work:
     summary: >
       Not-For-Profit Research & Development focused on (1) accelerating ubiquitous computing in both Public and Private Providers while enabling Cloud Computing approaches in Bare Metal and Fog Computing environments. (2) AgriTech to simplify the farming experience. (3) Artificial Intelligence. (4) Interfaces
 volunteer:
+  - organization: Atlassian (Australia)
+    position: Advisory
+    website: "https://www.atlassian.com/"
+    startDate: ""
+    endDate: ""
+    summary: |
+      Providers: AWS
+      Situation: Atlassian had a dedicated engineering team with a well established implementation of Kubernetes. They were transitioning to EKS over self-managed and sought recommendations for their situation in Kubernetes security, Containerization, Wargames, FedRAMP
+      Outcome: Container Networking Layer (CNI) replaced for increased security via eBPF along with zone aware networking, observability, Direct Server Return (DSR), transparent encryption via node to node mTLS, and unique feature of this CNI implemented, EKS access retricted to only approved Pods from inside cluster
   # - organization: Insurance Australia Group
   #   position: Advisory
   #   website: "https://www.iag.com.au"
