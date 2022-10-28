@@ -44,7 +44,7 @@ volunteer:
     position: Advisory
     website: "https://www.atlassian.com/"
     startDate: 2022-05-23
-    endDate: ""
+    # endDate: ""
     summary: |
       Providers: AWS
       Situation: Atlassian had a dedicated engineering team with a well established implementation of Kubernetes. They were transitioning to EKS over self-managed and sought recommendations for their situation in Kubernetes security, Containerization, Wargames, FedRAMP
