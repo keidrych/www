@@ -316,25 +316,14 @@ collections:
 # ----------------------------------------------------------------------------------------
 
 exclude:
-  - "*.gemspec"
-  - '*.toml'
-  - ./#jekyll-theme-hydejack/.git
   - ./#jekyll-theme-hydejack/node_modules
+  - ./#jekyll-theme-hydejack/.git
   - .jekyll-cache
   - .sass-cache
-  - .sass-cache
+  - '*.toml'
+  - vendor
   - Gemfile
   - Gemfile.lock
-  - _js
-  - _plugins
-  - docs/
-  - hyde/
-  - node_modules
-  - package-lock.json
-  - package.json
-  - redacted/
-  - vendor
-  - webpack.config.js
 include:
   - .well-known
   - LICENSE.md
@@ -405,7 +394,7 @@ titles_from_headings:
   collections:         true
 
 compress_html:
-  comments:            ["<!-- ", " -->"]
+  comments:            ["<!--", "-->"]
   clippings:           all
   endings:             all
   ignore:
