@@ -14,11 +14,11 @@ author1:
 
   # This photo will be used in the about section
   picture:
-    path:            https://res.cloudinary.com/tayloredtechnology/image/upload/c_scale,w_128/v1563282614/keidrych.com/keidrych.jpg
+    path:            https://res.cloudinary.com/reearth/image/upload/c_scale,w_128/v1563282614/keidrych.com/keidrych.jpg
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
-      1x:            https://res.cloudinary.com/tayloredtechnology/image/upload/c_scale,w_128/v1563282614/keidrych.com/keidrych.jpg
-      2x:            https://res.cloudinary.com/tayloredtechnology/image/upload/v1563282614/keidrych.com/keidrych.jpg
+      1x:            https://res.cloudinary.com/reearth/image/upload/c_scale,w_128/v1563282614/keidrych.com/keidrych.jpg
+      2x:            https://res.cloudinary.com/reearth/image/upload/v1563282614/keidrych.com/keidrych.jpg
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
