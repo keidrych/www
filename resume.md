@@ -2,17 +2,15 @@
 layout: resume
 title: Résumé
 description: >
-  keidrych empowers organizations to optimize Speed, Scale & Margin via foggy cloud structures and innovation with Zero Impact to production systems.
+  keidrych reconciles technology to mankind through helping organisations Cyvive Foggy Computing by making planet scale ubiquitous computing as natural as breathing.
 hide_description: true
 menu: true
 order: 3
 left_column:
  - work
- - education
- - awards
- - publications
 right_column:
  - skills
+ - publications
 no_language_icons: false
 no_skill_icons: false
 buttons:
@@ -23,4 +21,6 @@ buttons:
   # The later requires `hydejack.no_structured_data: false` and only works once the site is deployed to a public URL.
   vcf: http://h2vx.com/vcf/<!--url-->
   json: /assets/resume.json
----
+=======
+ - publications
+ - skills
