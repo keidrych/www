@@ -3,23 +3,20 @@
 # See also: <https://jsonresume.org/>.
 basics:
   name: keidrych
-  label: "Planet Scale Architct, Savant of Foggy Computing (Cloud -> Mist), Mastermind of Cyvive: Scorched Earth"
+  label: "Planet Scale Architect, Savant of Foggy Computing (Cloud -> Mist), Mastermind of Cyvive: Scorched Earth"
   picture: "https://res.cloudinary.com/reearth/image/upload/v1563282614/keidrych.com/keidrych.jpg"
   email: self@keidrych.fyi
   phone: "+61 407 137 451"
   website: "https://keidrych.fyi"
   summary: |
     i, believe we use what we trust, and trusted technology serves mankind; a 5% increase of internet (cyberspace) trust results in $3000+ increase of GDP per capita.\
-    i, state that real Planet Scale or Foggy (Cloud -> Fog -> Edge -> Mist(IoT/IoP)) computing is ubiquitous, teitering on sentience and critical in building credibility and trustworthyness between organisations and customers.\\n
-    i, created the philiosothy of Cyvive: Scorched Earth because i, saw numerous examples of unreliable Information Technology (IT) crafted with good intention yet unequipped to operate beyond a single data center, region or cloud provider; i, discovered without reliable Planet Scale Foggy Computing it is impossible to secure credibility, foster intimacy, or reduce customers worry long term.\\n
-      \\n
-    i, typically guide organisations through the quagmire of multi/poly Cloud Native Computing Foundation (CNCF) technologies so their technological foundation may be secure to all, reliable for customers, and moneterily efficiently through leveraging Scorched Earth capabilities towards zero production impact on Plant Scale Architecture.\\n
-    \\\n
-    i, walk what i, talk as seen by:\\n
-    - Crashed entire Regions in both Amazon Web Services (AWS) and Google Cloud Provider (GCP).
-    - Advanced technological maturity of Enterprise to where they would move the entire IT infrastructure between public cloud providers within 1 hour multiple times a day.
-
-    I have been invited to speak at events such as; CeBit (Australia), Robotic Process Automation (RPA) Brisbane, HackerX (Brisbane), Venture Summit (USA), TechCrunch (USA) & various Engineering Meetups
+    i, state that real Planet Scale or Foggy (Cloud -> Fog -> Edge -> Mist(IoT/IoP)) computing is ubiquitous, teitering on sentience and critical in building credibility and trustworthyness between organisations and customers.\
+    i, created the philiosothy of Cyvive: Scorched Earth because i, saw numerous examples of unreliable Information Technology (IT) crafted with good intention yet unequipped to operate beyond a single data center, region or cloud provider; i, discovered without reliable Planet Scale Foggy Computing it is impossible to secure credibility, foster intimacy, or reduce customers worry long term.\
+    \
+    i, typically guide organisations through the quagmire of multi/poly Cloud Native Computing Foundation (CNCF) technologies so their technological foundation may be secure to all, reliable for customers, and moneterily efficiently through leveraging Scorched Earth capabilities towards zero production impact on Plant Scale Architecture.\
+    i, have helped companies in Asia, Europe, USA, Oceania.\
+    \
+    i, have been invited to speak at events such as; CeBit (Australia), Robotic Process Automation (RPA) Brisbane, HackerX (Brisbane), Venture Summit (USA), TechCrunch (USA) & various Engineering Meetups & technology enthusiast groups
   location:
     postalCode: "4350"
     city: Toowoomba
@@ -51,21 +48,27 @@ publications:
       Unleashed a self-propogating truely serverless website onto the internet, no hosting costs beyond DNS.
 
 awards:
-  - title: Sale of Sotekton Pty Ltd
+  - title: Sale of company i, founded Sotekton Pty Ltd
     date: "2019-11-01"
     # awarder: "Manoja Tesch"
-    summary: |
-      i, founded Sotekton as a computer game company in 2009 where it evolved into a not-for-profit focused on researching Planet Scale Technologies.
+    # summary: |
+    #   i, founded Sotekton as a computer game company in 2009 where it evolved into a not-for-profit focused on researching Planet Scale Technologies.
+  - name: Meetup Group "The Foggy Cloud" (Sole Founder)
+    releaseDate: "2019-05-29"
+    # url: "MeetUp"
+    # summary: First Ubiquitous Computing MeetUp in Australia, in partnership with Michael Page (Brisbane), and Progressive (Sydney)
   - title: World top 10 in Containerization, TechCrunch Disrupt - USA
     date: "2018-09-06"
     # awarder: "TechCrunch Disrupt - USA"
     # summary: |
     #   Fathomable and Foggy Ubiquity's advanced security, immutability and Machine Learning (ML) optimisation of CNCF on all major public cloud providers
-  - title: Lord of Chaos
+  - title: Lord of Chaos, crashed regions in AWS, and GCP, advised on how to stabilize
     date: "2018-06-01"
     # summary: |
     #   Crashed computing regions within Amazon Web Services (AWS), and Google Cloud Provider (GCP).
-  - title: Seen on Channel 10, 11 and One (Australia)
+  - title: "Sponsor of Quasar: Beyond the Framework"
+    date: "2018-05-08"
+  - title: TV exposure on Channel 10, 11 and One (Australia)
     date: "2014-11-13"
     # awarder: Network Ten Intensify
     # summary: "Co-sponsored by Network 10 after presenting Taylored Technology's Micro-PaaS technology"
@@ -73,7 +76,7 @@ awards:
     releaseDate: "2011-08-11"
     # url: "FreePlay"
     # summary: "Coinciding with Ahasai Designs commercial release of Gangster Snap"
-  - title: Artificial Intelligence for FOREX
+  - title: Discovered Artificial Intelligence for FOREX
     date: "2006-01-01"
     # awarder: "FOREX"
     # summary: Maker of an adaptive Artificial Intelligence that understands human trading psycology increasing profits by 10%
@@ -89,43 +92,67 @@ skills:
       - Compliance
       - DC/OS
       - Data Sovereignty
+      - DevOps
+      - DevSecOps
       - Federated
       - Infrastructure Security
+      - IoT/IoP
       - Kubernetes
       - Multi-Cloud
       - Observability
       - Poly-Cloud
       - Scorched Earth
+      - Software Development Lifecycle (SDLC)
       - Zero Downtime
       - Zero Trust
-      - IoT
-      - IoP
-      - Architecture
+  - name: Architecture
+    level: Master
+    keywords:
+      - C4 Model
+      - Cloud Computing
+      - Containers
+      - Cynefin
+      - Data Flow
+      - Edge Computing
+      - Event Driven
+      - Fog Computing
+      - Integration
+      - Linux
+      - MicroServices
+      - Mist Computing
+      - Serverless
+      - Software
+      - Solution
+      - Web Services
   - name: Containerization
     level: Master
     keywords:
-      - NodeJS / Deno
-      - Python
-      - Java
+      - Docker
       - GoLang
+      - Java
       - Nim
-  - name: Scorched Earth
-    level: Master
-    keywords:
-      - Laptop
-      - Mobile
-      - Cloud Providers
-      - Organisations
+      - NodeJS / Deno / JavaScript
+      - Open Container Initiative (OCI)
+      - Python
   - name: Public Cloud Providers
     level: Master
     keywords:
-      - AWS
       - Alibaba
-      - Azure
+      - Amazon Web Services (AWS)
       - Baidu
-      - DO
-      - GCP
-      - IBM
+      - Bare Metal
+      - Co-located
+      - Digital Ocean (DO)
+      - Google Cloud Provider (GCP)
+      - IBM Softlayer
+      - Microsoft Azure
+  - name: Scorched Earth
+    level: Master
+    keywords:
+      - Cloud Providers
+      - Laptop
+      - Mobile
+      - Organisations
 
 volunteer:
   - organization: Cyvizen
@@ -134,25 +161,204 @@ volunteer:
     startDate: "2022-01-01"
     endDate: ""
     summary: |
-      Innovator of Cyvizen (Cyber Survival Denizen); An Linux Operating System striving for equilibrium between Anonyminity/Privacy and Innovation/Security stepping towards Digital ID while ensuring the ability to Scorched Earth Hardware. (Lost, Stolen, Damaged). Cyvizen is in use by Government, IT Professionals, Perpetual Travellers.
+      Cyvizen (Cyber Survival Denizen) is an integration for Digital Identify (ID) by way of a Linux Operating System that strives for equilibrium between Anonyminity/Privacy and Innovation/Security while leveraging the ability of Scorched Earthing Hardware. (Lost, Stolen, Damaged). Cyvizen is in use by Government, IT Professionals, Perpetual Travellers.
     highlights:
-      - "[ uplift ] node-to-node mTLS/WireGuard"
-      - "[ upskill ] Base Containers"
+      - "[ Ops ] partnered with MetaBox (Clevo Australia) for OEM install & dropship"
+      - "[ Ops ] validated encrypted incremental cloud sync"
+      - "[ Sec ] customised panic button for whole-disk erasure"
+      - "[ Sec ] engineered by design, for defense in depth and zero trust"
+      - "[ Sec ] hardened libraries and configuration by design"
   - organization: Containizen
     position: Maintainer, creator
     website: "https://hub.docker.com/r/foggyubiquity/containizen"
     startDate: "2017-04-02"
     endDate: ""
     summary: |
-      Author of Containizen; max security, minimal footprint production base containers. Containizen selected to be included in the Artic Code Vault where the code was placed on hardened film to survive 1000 years.
+      Trustworthy Containers (OCI/Docker) for production environments. max security, minimal footprint production base containers. Containizen selected to be included in the Artic Code Vault where the code was placed on hardened film to survive 1000 years.
     highlights:
-      - "[ uplift ] node-to-node mTLS/WireGuard"
-      - "[ upskill ] Base Containers"
-  - name: The Foggy Cloud (Sole Founder)
-    releaseDate: "2019-05-29"
-    # url: "MeetUp"
-    summary: First Ubiquitous Computing MeetUp in Australia, in partnership with Michael Page (Brisbane), and Progressive (Sydney)
-#work:
+      - "[ Ops ] engineered for global content caching of layers, reducing Mean Time To Resolution (MTTR) of production issues"
+      - "[ Ops ] implemented auto language detection and start capability, just drop code in and voilla"
+      - "[ Ops ] standardized language packaging processes for common software languages"
+      - "[ Sec ] analysed 25 container terrors and implemented removal or hardening to all"
+      - "[ Sec ] architected to drop permissions, operate as read-only, and maximise TMPFS capabilities"
+      - "[ Sec ] validated list of Common Vulnerabilities & Exposures (CVS) published daily"
+  - organization: Agnostic
+    position: Creator
+    # website: "https://hub.docker.com/r/foggyubiquity/containizen"
+    startDate: "2018-11-27"
+    endDate: "2019-03-18"
+    summary: |
+      Functional or Imperative Programming when paralleled are both Logic Programming, which in turn opens up Data Flow on CNCF Architecture, optimising event routing and processing
+    highlights:
+      - "[ Dev ] decreased development time by 250%"
+      - "[ Dev ] enabled 100% code coverage of developed functions within 60 seconds additional effort"
+      - "[ Dev ] designed as an integration compatibility layer for external services reducing vendor lock-in, risk of failure, and MTTR"
+
+work:
+  - company: Atlassian (Software)
+    position: Foggy Cloud Advisor / Architect
+    website: "https://www.atlassian.com/"
+    # startDate: "2022-05-23"
+    # endDate: ""
+    # summary: |
+    #   KITT engineering team, well-established self managed kubernetes implementation.
+    #   Sought to improve security and transition to EKS from self-managed with FedRAMP compliance.
+    highlights:
+      - "[ Ops ] conceptualised wargames specific to eBPF interactions and challenges"
+      - "[ Ops ] partnered Atlassian with SysDig for upgraded eBPF security and monitoring"
+      - "[ Ops ] upgraded networking to become zone aware on routing"
+      - "[ Ops ] visualised all container traffic through an eBPF (secure) observability layer"
+      - "[ Sec ] arbitrated replacement of Container Networking Interface (CNI) with transparent mTLS by WireGuard preventing any unencrypted traffic between machines"
+      - "[ Sec ] secured in-cluster requests to EKS API to approved Pods only"
+      - "[ Sec ] upgraded Kubernetes Secrets Management to Open Source Standards"
+  - company: Insurance Australia Group (Insurance)
+    position: Foggy Cloud Advisor / Architect
+    website: "https://www.iag.com.au"
+    # startDate: "2021-06-16"
+    # endDate: ""
+    # summary: |
+    #   Sought to baseline on industry standards, create blue/green environments on demand, streamline updates, optimise containers, upgrade security
+    highlights:
+      - "[ Ops ] architected zero production impact Continuous Delivery (CD)"
+      - "[ Ops ] conceptualized multi-cloud approaches for increased application uptime and reliability"
+      - "[ Sec ] customised in-use containers for Containizen compatibility"
+      - "[ Sec ] upgraded Kubernetes Secrets Management to Open Source Standards"
+  - company: ANZ Bank (Finance)
+    position: Foggy Cloud Advisor / Architect
+    website: "https://www.anz.com.au/"
+    # startDate: 2020-08-10
+    # endDate: 2021-03-23
+    # summary: |
+    #   Team responsible for constructing a planet scale next generation bank dual platforming digital and fiat currency.
+    #   Sought to create a PaaS for developers to consume consistent through to production while meeting the needs of planet scale infrastructure.
+    highlights:
+      - "[ Ops ] architected a secure code Audit Trail tracable to production"
+      - "[ Ops ] decreased risk of Disaster Recovery Strategy failure through identification of vapourware"
+      - "[ Ops ] evaluated ANZ's internal PaaS style platform against Foggy Ubiquity's lessons learned accelerating maturity of internal PaaS"
+      - "[ Sec ] diagnosed collaberation faiure points against InfoSec recommended patterns"
+      - "[ Sec ] diagnosed security failings of Istio and recommended more secure planet scale options"
+      - "[ Sec ] standardized Code Signing by demonstrating how fake actors can hijack commits"
+      - "[ Sec ] visualised Planet Scale Networking and mitigation approaches to risk"
+      - "[ SecOps ] assigned Data Sovereignty patterns for GDPR and per country legislation compliance"
+  - company: NBN Co (Networking)
+    position: Foggy Cloud Advisor / Architect
+    website: "https://www.nbnco.com.au/"
+    # startDate: 2019-07-30
+    # endDate: 2021-03-21
+    # summary: |
+    #   Sought to implement a centralized Kubernetes provisioning system for hundreds of small clusters consumed by different business units to counteract many 'rogue' different team Kubernetes clusters.
+    highlights:
+      - "[ Dev ] upgraded Kubernetes Cluster API to interface with Bare Metal Servers"
+      - "[ DevOps ] debugged AWS NVMe to allow full read write performance per NVMe specification"
+      - "[ DevOps ] promoted enabling identical and reproducable Development Environments accross the technology stack"
+      - "[ DevSecOps ] coded an automatic nightly suspension & resume capability into non-production Kubernetes clusters reducing operating costs"
+      - "[ Ops ] customised billing for per Kubernetes Cluster resource billing"
+      - "[ Ops ] launched a Kubernetes on Metal automated deployment, upgrade and maintenance platform"
+      - "[ Sec ] saved Kubernetes DNS from discovery attacks"
+      - "[ Sec ] upgraded CoreOS (unsupported) to Flatcar Linux"
+      - "[ SecOps ] built a Kubernetes Hybrid Cloud (Metal->AWS) with transparent encrypted traffic between machines"
+  - company: FriendFinder Networks (Dating)
+    position: Consultant to CTO
+    website: "http://www.ffn.com/"
+    # startDate: 2019-08-12
+    # endDate: 2020-12-24
+    # summary: |
+    #   Chief Technical Officer (CTO) wanted to uplift FFN to a Cloud Native Company, completing a full code rewrite multi-million lines of monolithic Perl into MicroServices via a Global Development Team.
+    #   Sought acceleration of Cloud Native Computing Foundation (CNCF) technolgies in a pure Bare Metal environment without sacrificing multi-region, performance, security, or disaster recovery
+    highlights:
+      - "[ DevSecOps ] standardized Continuous Integration (CI) & Continuous Delivery (CD) within a fully automated isolated environment increasing efficiency and security"
+      - "[ Ops ] removed VMWare by coding IPXE compatibility for Kubernetes to run directly on Bare Metal, saving over 100K in license fees"
+      - "[ Ops ] restructured to Failover Edge Routing allowing zero downtime for deployments"
+      - "[ SecOps ] architected Kubernetes on Bare Metal as a multi data-center mesh with encrypted traffic between machines"
+      - "[ SecOps ] restructured white-label routing via secure tunnel direct to cluster blocking access to malicious actors"
+      - "[ SecOps ] visualised how Shadow Environments would reduce production defects and boost security increasing trust of customers"
+  - company: Maestro Interactive (Streaming)
+    position: CTO (Cloud)
+    website: "https://info.maestro.io/"
+    # startDate: 2020-05-11
+    # endDate: 2020-12-24
+    # summary: |
+    #   Startup providing user interavice live streams for gaming, music concerts, grammys and more. Any disruption in service resulted in clients abandoning the service.
+    #   Sought to push beyond their concurrency limits towards planet scale networking while optimising billing
+    highlights:
+      - "[ DevOps ] optimised NodeJS memory, throughput, and concurrency stabilizing application at scale on multiple cloud regions"
+      - "[ DevOps ] optimised billing by correcting scaling performance and infrastructure needs resulting in 10x reduction in cloud computing costs"
+      - "[ Ops ] arbitrated removal of Service Mesh, enabling 10x stream concurrency"
+      - "[ Ops ] discovered, a world first work-around to KubeDNS scaling issues at volume with GCP. Google published this discovery on their relevant FAQ page"
+      - "[ SecOps ] implemented dynamically re-routable Secure Web Sockets on Kubernetes removing stream interruptions on Pod relocation, critical to business success and reputation"
+      - "[ SecOps ] visualised how Shadow Environments would reduce production defects and boost security increasing trust of customers"
+  - company: DoIt International (Cloud Support)
+    position: Consultant, Critical Production Support
+    website: "https://www.doit-intl.com/"
+    # startDate: 2020-01-13
+    # endDate: 2020-12-24
+    # summary: |
+    #   DoIt as the largest cloud reseller that also provides free support, fault-finding through to P1 & architecture has tricky or difficult customer requests.
+    #   Sought on-demand/retainer assistance to quickly resolve P1 issues with their clients in any cloud provider
+    highlights:
+      - "[ DevSecOps ] presented ways of working with and optimising CNCF architecture at sponsored Meetups"
+      - "[ DevSecOps ] promoted Containizen's discoveries for security and operation awareness reducing bloat when diagnosing production issues"
+      - "[ DevSecOps ] assigned as P1 critical support for challenging or critical clients"
+  - company: Virgin Australia (Airline)
+    position: Consultant to Head of Digital & Emerging Technology
+    website: "http://virginaustralia.com"
+    # startDate: 2018-10-22
+    # endDate: 2019-04-12
+    # summary: |
+    #   Sought guidance in transitioning from Service Bus technology to Cloud Native Computing Foundation (CNCF)/Kubernetes, Data Sovereignty, IoT devices, security and future resilliance.
+    highlights:
+      - "[ Dev ] restructured architecture to CNCF compliant revoking legacy N-Tier & Domain Driven architecture"
+      - "[ Ops ] implemented centralized Logging via 'Common Log Format' preventing incompatibilities with log aggregation streams"
+      - "[ Ops ] reduced in Cluster operating costs by 20% & Container Image download time by 90%"
+      - "[ SecOps ] architected PII & PCI compliance through CNCF technologies"
+  - company: Tabcorp (Gambling)
+    position: Foggy Cloud Advisor / Architect
+    website: "http://tattsgroup.com"
+    # startDate: 2017-10-25
+    # endDate: 2018-08-31
+    # summary: |
+    #   Sought to use Kubernetes as the future tollerant platform, storage drivers were unsable in Kubernetes at the time, loss of any data carried business penalty.
+    highlights:
+      - "[ Ops ] architected multi-cloud and multi-region failover and recovery"
+      - "[ Sec ] analysed security weakpoints in Kubernetes implementation and hardened appropriately"
+      - "[ Sec ] upgraded Kubernetes Secrets Management to Open Source Standards"
+
+education:
+  - institution: "Queensland University of Technology"
+    area: "Mechanical, Electrical & Information Technology (Infomechatronics)"
+    studyType: "Bachelor of Engineering"
+    # startDate: "2000-01-01"
+    # endDate: "2003-12-01"
+  - institution: "Toastmasters International"
+    area: "Advanced Communicator Gold, Competent Leader"
+    studyType: "Public Speaking"
+    # startDate: "2000-01-01"
+    # endDate: "2006-12-01"
+  - institution: "Princeton University"
+    area: "Advanced Placement"
+    studyType: "Scholar"
+    # startDate: "1999-01-01"
+    # endDate: "2014-01-01"
+
+
+# work:
+  # - company: "Flight Centre"
+  #   position: "Cloud Computing"
+  #   website: "http://flightcentre.com.au"
+  #   # startDate: "2017-04-06"
+  #   # endDate: "2017-08-11"
+  #   summary: |
+  #     Sought to be the first enterprise in the region to transition to Cloud Native Computing Foundation & Kubernetes.
+  #     Outcome: AZ aware Enterprise Grade Kubernetes implementation with Disaster Recovery & suitable CI/CD pipelines
+  #   highlights:
+  #     - "[ uplift ] 'Stateful' services available in-cluster 12 months ahead of official support Kubernetes support."
+  #     - "[ uplift ] Disposable Developer Environments on-demand with sample data & MicroService dependency management via Cyvive"
+  #     - "[ uplift ] Container aware security technology"
+  #     - "[ uplift ] CoreOS replacing RHEL for better security, networking and mean time to recover."
+  #     - "[ uplift ] Secrets Management for Open Source Repositories"
+  #     - "[ uplift ] ISM, PCI & PII Compliance directed design"
+  #     - "[ uplift ] Scorched Earth recovery of 60 minutes"
+  #     - "[ uplift ] Continuous Delivery aware environments, a 50% reduction infrastructure operating costs increasing security and compliance"
 #  - company: Sotekton
 #    position: "Founder & Chief Research Officer"
 #    #website: "http://sotekton.com"
@@ -160,123 +366,15 @@ volunteer:
 #    endDate: 2021-05-31
 #    summary: >
 #      Not-For-Profit Research & Development focused on (1) accelerating ubiquitous computing in both Public and Private Providers while enabling Cloud Computing approaches in Bare Metal and Fog Computing environments. (2) AgriTech to simplify the farming experience. (3) Artificial Intelligence. (4) Interfaces
-work:
-  - company: Atlassian (Australia)
-    position: Advisory
-    website: "https://www.atlassian.com/"
-    startDate: "2022-05-23"
-    endDate: ""
-    summary: |
-      KITT engineering team, well-established self managed kubernetes implementation.
-      Sought to improve security and transition to EKS from self-managed with FedRAMP compliance.
-    highlights:
-      - "[ uplift ] node-to-node mTLS/WireGuard"
-      - "[ uplift ] EKS API restricted to approved Pods"
-      - "[ uplift ] Zone aware networking"
-      - "[ uplift ] observability"
-      - "[ upskill ] Base Containers"
-      - "[ upskill ] Wargames, eBPF interactions"
-      - "[ upskill ] Breach capturing & replayablity"
-      - "[ upskill ] Secrets Management"
-  - company: Insurance Australia Group
-    position: Advisory
-    website: "https://www.iag.com.au"
-    startDate: "2021-06-16"
-    endDate: ""
-    summary: |
-      Sought to baseline on industry standards, create blue/green environments on demand, streamline updates, optimise containers, upgrade security
-    highlights:
-      - "[ uplift ] node-to-node mTLS/WireGuard"
-      - "[ uplift ] Zone aware networking"
-      - "[ uplift ] Secrets Management"
-      - "[ upskill ] Base Containers"
-      - "[ upskill ] Continuous Delivery"
-      - "[ upskill ] Secrets Management"
-      - "[ upskill ] Multi-Cloud"
-  - company: ANZ Bank
-    position: Advisory
-    website: "https://www.anz.com.au/"
-    startDate: 2020-08-10
-    endDate: 2021-03-23
-    summary: |
-      Team responsible for constructing a planet scale next generation bank dual platforming digital and fiat currency.
-      Sought to create a PaaS for developers to consume consistent through to production while meeting the needs of planet scale infrastructure.
-    highlights:
-      - "[ uplift ] multi-region node-to-node mTLS/WireGuard"
-      - "[ uplift ] Secrets Management"
-      - "[ uplift ] Audit Trail, Code to Production"
-      - "[ uplift ] PaaS style platform (internal) against Fathomable's lessons learned"
-      - "[ upskill ] Better Code Signing"
-      - "[ upskill ] InfoSec Patterns"
-      - "[ upskill ] Data Sovereignty"
-      - "[ upskill ] Archtypes of Planet Scale Networking"
-      - "[ upskill ] Failure points with Disaster Recovery Strategy"
-      - "[ upskill ] Istio Challenges & Security Upgrades"
-  - company: NBN Co
-    position: Cloud Computing
-    website: "https://www.nbnco.com.au/"
-    startDate: 2019-07-30
-    endDate: 2021-03-21
-    summary: |
-      Sought to implement a centralized Kubernetes provisioning system for hundreds of small clusters consumed by different business units to counteract many 'rogue' different team Kubernetes clusters.
-    highlights:
-      - "[ uplift ] Kubernetes on Metal"
-      - "[ uplift ] Kubernetes Cluster API for Bare Metal awareness on SAP's Gardener platform"
-      - "[ uplift ] Itemised Billing of resource consumption per Kubernetes Cluster"
-      - "[ uplift ] Identical / Reproducable Development Environments"
-      - "[ uplift ] Kubernetes DNS attack protection"
-      - "[ uplift ] CoreOS (unsupported) to Flatcar Linux"
-      - "[ uplift ] Automatic nightly suspension & resume of non-production Kubernetes clusters"
-      - "[ uplift ] Base Containers"
-      - "[ uplift ] Multi-Cluster Mesh"
-      - "[ uplift ] Unlock full NVMe performance"
-      - "[ uplift ] Hybrid Cloud (Metal->AWS)"
-      - "[ upskill ] Guest Speaker, internal meetups"
-  - company: FriendFinder Networks
-    position: Advisory to CTO
-    website: "http://www.ffn.com/"
-    startDate: 2019-08-12
-    endDate: 2020-12-24
-    summary: |
-      Chief Technical Officer (CTO) wanted to uplift FFN to a Cloud Native Company, completing a full code rewrite multi-million lines of monolithic Perl into MicroServices via a Global Development Team.
-      Sought acceleration of Cloud Native Computing Foundation (CNCF) technolgies in a pure Bare Metal environment without sacrificing multi-region, performance, security, or disaster recovery
-    highlights:
-      - "[ uplift ] Kubernetes on Metal"
-      - "[ uplift ] Secure Multi-DC Distributed Kubernetes Clusters"
-      - "[ uplift ] node-to-node mTLS/WireGuard"
-      - "[ uplift ] Failover Edge Routing"
-      - "[ uplift ] IPXE for whole machine Kubernetes Control (no more VMWare)"
-      - "[ uplift ] In-Cluster Dynamic DNS for Whitelabeled Websites"
-      - "[ upskill ] Shadow Environments"
-      - "[ upskill ] Scorched Earth Capabilities"
-      - "[ upskill ] Cloud Native Continous Delivery"
-  - company: Maestro Interactive
-    position: Advisory
-    website: "https://info.maestro.io/"
-    startDate: 2020-05-11
-    endDate: 2020-12-24
-    summary: |
-      Startup providing user interavice live streams for gaming, music concerts, grammys and more. Any disruption in service resulted in clients abandoning the service.
-      Sought to push beyond their concurrency limits towards planet scale networking while optimising billing
-    highlights:
-      - "[ uplift ] crashed Google Kubernetes Engine (GKE) with scale of computing, advised GKE how to stabilize for high concurrency"
-      - "[ uplift ] First in world to discover & work-around KubeDNS scaling issues at volume with GCP. Help guide/information on GKE about KubeDNS based on discovery & work-around"
-      - "[ uplift ] removal of Service Mesh, enabling 10x stream concurrency"
-      - "[ uplift ] 10x reduction in cloud computing costs"
-      - "[ uplift ] dynamic event cost estimation based on history and traffic"
-      - "[ uplift ] Continuous Delivery"
-      - "[ uplift ] Shadow Environments"
-      - "[ upskill ] Secure Web Sockets on Kubernetes without interuption on Pod relocation"
-      - "[ upskill ] NodeJS memory, throughput, concurrency optimisations"
-      - "[ upskill ] Scorched Earth"
-  - company: DoIt International
-    position: Advisory
-    website: "https://www.doit-intl.com/"
-    startDate: 2020-01-13
-    endDate: 2020-12-24
-    summary: |
-      DoIt as the largest cloud reseller that also provides free support, fault-finding through to P1 & architecture has tricky or difficult customer requests.
-      Sought on-demand/retainer assistance to quickly resolve P1 issues with their clients in any cloud provider
+  # - company: "Cook Medical (Australia)"
+  #   position: "Cloud Computing"
+  #   website: "https://www.cookmedical.com/"
+  #   startDate: "2017-03-30"
+  #   endDate: "2017-05-30"
+  #   summary: |
+  #     Providers: Azure, GCP, AWS, Bare Metal
+  #     Situation: Globally distributed manufacturing facilities operating on different cloud providers needed to be transparently stitched together ensuring MicroService reallocation and Service Discovery.
+  #     Outcome: HashiCorp's Consul integrated with technology from eBay ensured a global datacenter-aware service discovery approach with dynamic bridging tunnels automatically established between Kubernetes clusters
   # - company: Cyvive
   #   position: Cloud Computing
   #   website: "http://www.cyvive.io/"
@@ -330,87 +428,6 @@ work:
   #     Outcome: Partnering with 3 Universities and 35 Industry Publications, a Universal MicroService Language using Machine Learning was created & Open Sourced.
 
   #     Documentation merged as 'Governance' in Cyvive.
-  - company: "Virgin Australia"
-    position: "Cloud Computing"
-    website: "http://virginaustralia.com"
-    startDate: 2018-10-22
-    endDate: 2019-04-12
-    summary: |
-      Sought guidance in transitioning from Service Bus technology to Cloud Native Computing Foundation (CNCF)/Kubernetes, Data Sovereignty, IoT devices, security and future resilliance.
-    highlights:
-      - "[ uplift ] Container aware security technology"
-      - "[ uplift ] Zero Impact deployments"
-      - "[ uplift ] Cloud Agnostic starter kit http://github.com/sotekton/agnostic enabling 100% code coverage & 250% increase in development speed"
-      - "[ uplift ] Centralized Logging via 'Common Log Format'"
-      - "[ uplift ]: Autonomic environments for Developers Continous Integration & Production Like via NIX"
-      - "[ uplift ]: Reduction in Cluster operating costs by 20% & Container Image download time by 90%"
-      - "[ upskill ] prototype NodeJS as primary language choice for Cloud Architected Services."
-      - "[ upskill ] PII & PCI compliance against Practices"
-      - "[ upskill ] Secure Containers via Just Enough Operating System (JeOS) for 'Development' & 'Production' environments (Containizen)"
-      - "[ upskill ] Flaws of N-Tier & Domain Driven architecture in CNCF"
-  - company: "Max Gaming (Tatts Group)"
-    position: "Cloud Computing"
-    website: "http://tattsgroup.com"
-    startDate: 2017-10-25
-    endDate: 2018-08-31
-    summary: |
-      Sought to use Kubernetes as the future tollerant platform, storage drivers were unsable in Kubernetes at the time, loss of any data carried business penalty.
-    highlights:
-      - "[ uplift ] Disposable Developer Environments on-demand with sample data & MicroService dependency management via Fathomable"
-      - "[ uplift ] Uplift to Container aware security technology"
-      - "[ uplift ] Secrets Management for OpenSource / IntraSource repositories"
-      - "[ uplift ] Secrets Management in Kubernetes"
-      - "[ uplift ] Hybrid Multi-Cloud Kubernetes"
-      - "[ uplift ] Limited Scorched Earth capability, multi-cloud, multi-region recovery abilities"
-      - "[ uplift ] Security hardening of networking and network optimizations"
-      - "[ uplift ] node-to-node mTLS/WireGuard"
-      - "[ upskill ] Kubernetes & Containerization vulnerabilities and how to secure"
-  - company: "Flight Centre"
-    position: "Cloud Computing"
-    website: "http://flightcentre.com.au"
-    startDate: "2017-04-06"
-    endDate: "2017-08-11"
-    summary: |
-      Sought to be the first enterprise in the region to transition to Cloud Native Computing Foundation & Kubernetes.
-      Outcome: AZ aware Enterprise Grade Kubernetes implementation with Disaster Recovery & suitable CI/CD pipelines
-    highlights:
-      - "[ uplift ] 'Stateful' services available in-cluster 12 months ahead of official support Kubernetes support."
-      - "[ uplift ] Disposable Developer Environments on-demand with sample data & MicroService dependency management via Cyvive"
-      - "[ uplift ] Container aware security technology"
-      - "[ uplift ] CoreOS replacing RHEL for better security, networking and mean time to recover."
-      - "[ uplift ] Secrets Management for Open Source Repositories"
-      - "[ uplift ] ISM, PCI & PII Compliance directed design"
-      - "[ uplift ] Scorched Earth recovery of 60 minutes"
-      - "[ uplift ] Continuous Delivery aware environments, a 50% reduction infrastructure operating costs increasing security and compliance"
-
-education:
-  - institution: "Queensland University of Technology"
-    area: "Mechanical, Electrical & Information Technology (Infomechatronics)"
-    studyType: "Bachelor of Engineering"
-    startDate: "2000-01-01"
-    endDate: "2003-12-01"
-  - institution: "Toastmasters International"
-    area: "Advanced Communicator Gold, Competent Leader"
-    studyType: "Public Speaking"
-    startDate: "2000-01-01"
-    endDate: "2006-12-01"
-  - institution: "Princeton University"
-    area: "Advanced Placement"
-    studyType: "Scholar"
-    startDate: "1999-01-01"
-    endDate: "2014-01-01"
-
-
-# work:
-  # - company: "Cook Medical (Australia)"
-  #   position: "Cloud Computing"
-  #   website: "https://www.cookmedical.com/"
-  #   startDate: "2017-03-30"
-  #   endDate: "2017-05-30"
-  #   summary: |
-  #     Providers: Azure, GCP, AWS, Bare Metal
-  #     Situation: Globally distributed manufacturing facilities operating on different cloud providers needed to be transparently stitched together ensuring MicroService reallocation and Service Discovery.
-  #     Outcome: HashiCorp's Consul integrated with technology from eBay ensured a global datacenter-aware service discovery approach with dynamic bridging tunnels automatically established between Kubernetes clusters
   # - company: "Vodafone Hutchinson & ING Australia, National Australia Bank"
   #   position: "Fog <-> Cloud Computing"
   #   startDate: "2016-01-01"
