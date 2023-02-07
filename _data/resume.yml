@@ -55,9 +55,9 @@ awards:
     # awarder: "Manoja Tesch"
     # summary: |
     #   i, founded Sotekton as a computer game company in 2009 where it evolved into a not-for-profit focused on researching Planet Scale Technologies.
-  - name: Meetup Group "The Foggy Cloud" (Sole Founder)
-    releaseDate: "2019-05-29"
-    # url: "MeetUp"
+  - title: Meetup Group "The Foggy Cloud" (Sole Founder)
+    date: "2019-05-29"
+    # awarder: "MeetUp"
     # summary: First Ubiquitous Computing MeetUp in Australia, in partnership with Michael Page (Brisbane), and Progressive (Sydney)
   - title: World top 10 in Containerization, TechCrunch Disrupt - USA
     date: "2018-09-06"
