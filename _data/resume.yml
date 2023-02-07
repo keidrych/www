@@ -3,19 +3,21 @@
 # See also: <https://jsonresume.org/>.
 basics:
   name: keidrych
-  label: "Savant of Foggy Computing (Cloud -> Mist), Mastermind of Cyvive: Scorched Earth"
+  label: "Planet Scale Architct, Savant of Foggy Computing (Cloud -> Mist), Mastermind of Cyvive: Scorched Earth"
   picture: "https://res.cloudinary.com/reearth/image/upload/v1563282614/keidrych.com/keidrych.jpg"
   email: self@keidrych.fyi
   phone: "+61 407 137 451"
   website: "https://keidrych.fyi"
   summary: |
-    I reconcile technology to mankind through helping organisations Cyvive Foggy Computing by making planet scale ubiquitous computing as natural as breathing.
-    I push the limits of cyber adaptivity by leveraging scorched earth capabilities to advance technological maturity; enhance security and gravitate towards zero impact on production systems.
+    i, believe we use what we trust, and trusted technology serves mankind; a 5% increase of internet (cyberspace) trust results in $3000+ increase of GDP per capita.
+    i, state that real Planet Scale or Foggy (Cloud -> Fog -> Edge -> Mist(IoT/IoP)) computing is ubiquitous, teitering on sentience and critical in building credibility and trustworthyness between organisations and customers.
+    i, created the philiosothy of Cyvive: Scorched Earth because i, saw numerous examples of unreliable Information Technology (IT) crafted with good intention yet unequipped to operate beyond a single data center, region or cloud provider; i, discovered without reliable Planet Scale Foggy Computing it is impossible to secure credibility, foster intimacy, or reduce customers worry long term.
 
-    - Author of Containizen; max security, minimal footprint production base containers. Containizen preserved for future generations as it was selected to be included in the Artic Code Vault where the code was placed on hardened film to survive 1000 years.
-    - Innovator of Cyvizen (Cyber Survival Denizen); equilibrium between Anonyminity and Privacy while ensuring the ability to Scorched Earth Hardware. (Lost, Stolen, Damaged). Cyvizen is in use by Government, IT Professionals, Perpetual Travellers.
-    - Ranked at TechCrunch USA 2018 as one of the World’s Top 10 in Containerization for 1) authoring an Operational & Governance Platform for Kubernetes, and 2) implementing a Configuration & Continuous Delivery Meta Language (Fathomable) via collaboration with 3 Universities & 35 Industry Publications.
-    - Founded & Sold a Cloud Native Research & Development company: Sotekton owner of Fathomable some of its technology was featured on Channel 10, Eleven and One
+    i, typically guide organisations through the quagmire of multi/poly Cloud Native Computing Foundation (CNCF) technologies so their technological foundation may be secure to all, reliable for customers, and moneterily efficiently through leveraging Scorched Earth capabilities towards zero production impact on Plant Scale Architecture.
+
+    i, walk what i, talk as seen by:
+    - Crashed entire Regions in both Amazon Web Services (AWS) and Google Cloud Provider (GCP).
+    - Advanced technological maturity of Enterprise to where they would move the entire IT infrastructure between public cloud providers within 1 hour multiple times a day.
 
     I have been invited to speak at events such as; CeBit (Australia), Robotic Process Automation (RPA) Brisbane, HackerX (Brisbane), Venture Summit (USA), TechCrunch (USA) & various Engineering Meetups
   location:
@@ -27,29 +29,78 @@ basics:
     - network: "Twitter"
       username: keidrych
       url: "https://twitter.com/keidrych"
+
 publications:
-  - name: Containizen
-    publisher: DockerHub
-    # releaseDate: ""
-    url: "https://hub.docker.com/r/foggyubiquity/containizen"
+  - name: Foggy Ubiquity
+    # publisher: DockerHub
+    releaseDate: "2018-02-01"
+    # url: ""
     summary: |
-      max security, minimal footprint production base containers
+      Creator of a Configuration & Continuous Delivery Meta Language in collaborating with 3 Universities & 35 Industry Publications.
+  - name: Fathomable
+    # publisher: DockerHub
+    releaseDate: "2018-03-15"
+    # url: ""
+    summary: |
+      Maker of an Operational & Governance Platform for Kubernetes, compatible with all major public cloud and bare metal servers.
+  - name: Espial
+    # publisher: DockerHub
+    releaseDate: "2017-04-02"
+    # url: ""
+    summary: |
+      Unleashed a self-propogating truely serverless website onto the internet, no hosting costs beyond DNS.
+
+awards:
+  - title: Sale of Sotekton Pty Ltd
+    date: "2019-11-01"
+    # awarder: "Manoja Tesch"
+    summary: |
+      i, founded Sotekton as a computer game company in 2009 where it evolved into a not-for-profit focused on researching Planet Scale Technologies.
+  - title: "World top 10 in Containerization, TechCrunch Disrupt - USA"
+    date: "2018-09-06"
+    # awarder: "TechCrunch Disrupt - USA"
+    summary: |
+      Fathomable and Foggy Ubiquity's advanced security, immutability and Machine Learning (ML) optimisation of CNCF on all major public cloud providers
+  - title: Lord of Chaos
+    date: "2018-06-01"
+    summary: |
+      Crashed computing regions within Amazon Web Services (AWS), and Google Cloud Provider (GCP).
+  - title: Seen on Channel 10, 11 and One (Australia)
+    date: "2014-11-13"
+    # awarder: Network Ten Intensify
+    # summary: "Co-sponsored by Network 10 after presenting Taylored Technology's Micro-PaaS technology"
+  - name: Corporate Sponsor FreePlay 2011
+    releaseDate: "2011-08-11"
+    # url: "FreePlay"
+    # summary: "Coinciding with Ahasai Designs commercial release of Gangster Snap"
+  - title: Artificial Intelligence for FOREX
+    date: "2006-01-01"
+    # awarder: "FOREX"
+    summary: Maker of an adaptive Artificial Intelligence that understands human trading psycology increasing profits by 10%
 
 skills:
-  - name: Kubernetes
+  - name: Planet Scale
     level: Master
     keywords:
       - CD/Continuous Delivery
       - CI/Continuous Integration
-      - Chaos
+      - CNCF
+      - Chaos Engineering
       - Compliance
-      - MultiCloud
-      - Networking
+      - DC/OS
+      - Data Sovereignty
+      - Federated
+      - Infrastructure Security
+      - Kubernetes
+      - Multi-Cloud
       - Observability
-      - Planet Scale
-      - PolyCloud
+      - Poly-Cloud
       - Scorched Earth
-      - Security
+      - Zero Downtime
+      - Zero Trust
+      - IoT
+      - IoP
+      - Architecture
   - name: Containerization
     level: Master
     keywords:
@@ -76,6 +127,31 @@ skills:
       - GCP
       - IBM
 
+volunteer:
+  - organisation: Cyvizen
+    position: Maintainer, maker
+    # website: "https://www.atlassian.com/"
+    startDate: "2022-01-01"
+    endDate: ""
+    summary: |
+      Innovator of Cyvizen (Cyber Survival Denizen); An Linux Operating System striving for equilibrium between Anonyminity/Privacy and Innovation/Security stepping towards Digital ID while ensuring the ability to Scorched Earth Hardware. (Lost, Stolen, Damaged). Cyvizen is in use by Government, IT Professionals, Perpetual Travellers.
+    highlights:
+      - "[ uplift ] node-to-node mTLS/WireGuard"
+      - "[ upskill ] Base Containers"
+  - organisation: Containizen
+    position: Maintainer, creator
+    website: "https://hub.docker.com/r/foggyubiquity/containizen"
+    startDate: "2017-04-02"
+    endDate: ""
+    summary: |
+      Author of Containizen; max security, minimal footprint production base containers. Containizen selected to be included in the Artic Code Vault where the code was placed on hardened film to survive 1000 years.
+    highlights:
+      - "[ uplift ] node-to-node mTLS/WireGuard"
+      - "[ upskill ] Base Containers"
+  - name: The Foggy Cloud (Sole Founder)
+    releaseDate: "2019-05-29"
+    # url: "MeetUp"
+    summary: First Ubiquitous Computing MeetUp in Australia, in partnership with Michael Page (Brisbane), and Progressive (Sydney)
 #work:
 #  - company: Sotekton
 #    position: "Founder & Chief Research Officer"
@@ -306,6 +382,26 @@ work:
       - "[ uplift ] ISM, PCI & PII Compliance directed design"
       - "[ uplift ] Scorched Earth recovery of 60 minutes"
       - "[ uplift ] Continuous Delivery aware environments, a 50% reduction infrastructure operating costs increasing security and compliance"
+
+education:
+  - institution: "Queensland University of Technology"
+    area: "Mechanical, Electrical & Information Technology (Infomechatronics)"
+    studyType: "Bachelor of Engineering"
+    startDate: "2000-01-01"
+    endDate: "2003-12-01"
+  - institution: "Toastmasters International"
+    area: "Advanced Communicator Gold, Competent Leader"
+    studyType: "Public Speaking"
+    startDate: "2000-01-01"
+    endDate: "2006-12-01"
+  - institution: "Princeton University"
+    area: "Advanced Placement"
+    studyType: "Scholar"
+    startDate: "1999-01-01"
+    endDate: "2014-01-01"
+
+
+# work:
   # - company: "Cook Medical (Australia)"
   #   position: "Cloud Computing"
   #   website: "https://www.cookmedical.com/"
@@ -363,47 +459,11 @@ work:
   #   summary: |
   #     Situation: Smart Power Meters were to be rolled out by all Electricity Providers within the State of Victoria. Mesh Networking technology was unproven due to IoT being an emerging technology and company due to government mandate had zero tolerance of failure for this $300 million project.
   #     Outcome: Spent 6 weeks with networking vendor (SilverSpring Networks) to accelerate stability & lifespan of Mesh Networking technology. All Government deadlines were achieved on-time while present on the project
-# education:
-#   - institution: "Queensland University of Technology"
-#     area: "Mechanical, Electrical & Information Technology (Infomechatronics)"
-#     studyType: "Bachelor of Engineering"
-#     startDate: "2000-01-01"
-#     endDate: "2003-12-01"
-#   - institution: "Toastmasters International"
-#     area: "Advanced Communicator Gold, Competent Leader"
-#     studyType: "Public Speaking"
-#     startDate: "2000-01-01"
-#     endDate: "2006-12-01"
-#   - institution: "Princeton University"
-#     area: "Advanced Placement"
-#     studyType: "Scholar"
-#     startDate: "1999-01-01"
-#     endDate: "2014-01-01"
-# awards:
-#   - title: "Sale of Sotekton (ex Taylored Technology)"
-#     date: "2019-11-01"
-#     awarder: "Manoja Tesch"
-#     summary: ""
-#   - title: "The Foggy Cloud (Sole Founder)"
-#     date: "2019-05-29"
-#     awarder: "MeetUp"
-#     summary: "Australia's first Ubiquitous Computing MeetUp, in partnership with Michael Page (Brisbane)"
-#   - title: "World top 10 in Containerization"
-#     date: "2018-09-06"
-#     awarder: "TechCrunch Disrupt - USA"
-#     summary: "As the sole author of Cyvive.io's beta release. An infusing of security, immutability and deep optimization of Kubernetes across bare metal and all major cloud providers. Resulted in this recognition."
-#   - title: "Seen on Channel 10, 11 and One"
-#     date: "2014-11-13"
-#     awarder: "Network Ten Intensify"
-#     summary: "Co-sponsored by Network 10 after presenting Taylored Technology's Micro-PaaS technology"
+# awards
 #   - title: "Rebranding of Ahasai Designs to Taylored Technology (Sole Founder)"
 #     date: "2013-03-13"
 #     awarder: "Industry / Australian Security & Investment Commission"
 #     summary: "Reinvention of Ahasai Designs; expanding scope of Research & Development to include Cloud & Mist Computing"
-#   - title: "Corporate Sponsor FreePlay 2011"
-#     date: "2011-08-11"
-#     awarder: "FreePlay"
-#     summary: "Coinciding with Ahasai Designs commercial release of Gangster Snap"
 #   - title: "Ahasai Designs (Sole Founder)"
 #     date: "2011-03-15"
 #     awarder: "Industry / Australian Security & Investment Commission"
@@ -412,24 +472,7 @@ work:
 #     date: "2010-07-05"
 #     awarder: "CitiPower Powercor"
 #     summary: "Introduction of long-service LED lighting for street & site safety"
-#   - title: "Birth of an Artificial Intelligence"
-#     date: "2006-01-01"
-#     awarder: "FOREX"
-#     summary: "Successful completion of a adaptive Artificial Intelligence capable of understanding market retracements increasing profit by ten percent on all major FOREX"
 #   - title: "International Yacht Racing Trophy"
 #     date: "1999-06-06"
 #     awarder: "Ras Al Khaimah International Airport"
 #     summary: "International yacht race featured in the local state newspaper"
-# languages:
-#   - language: "English"
-#     fluency: "Native speaker"
-# interests:
-#   - name: "Wildlife"
-#     keywords:
-#       - "Ferrets"
-#       - "Unicorns"
-# references:
-#   - name: "Erlich Bachman"
-#     reference: >
-#       It is my pleasure to recommend Richard, his performance working as a consultant for Main St.
-#       Company proved that he will be a valuable addition to any company.

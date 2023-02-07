@@ -7,10 +7,12 @@ hide_description: true
 menu: true
 order: 3
 left_column:
+ - volunteer
  - work
 right_column:
  - skills
  - publications
+ - education
 no_language_icons: false
 no_skill_icons: false
 buttons:
