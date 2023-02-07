@@ -7,6 +7,7 @@ hide_description: true
 menu: true
 order: 3
 left_column:
+ - awards
  - volunteer
  - work
 right_column:

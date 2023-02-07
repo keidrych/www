@@ -9,13 +9,13 @@ basics:
   phone: "+61 407 137 451"
   website: "https://keidrych.fyi"
   summary: |
-    i, believe we use what we trust, and trusted technology serves mankind; a 5% increase of internet (cyberspace) trust results in $3000+ increase of GDP per capita.
-    i, state that real Planet Scale or Foggy (Cloud -> Fog -> Edge -> Mist(IoT/IoP)) computing is ubiquitous, teitering on sentience and critical in building credibility and trustworthyness between organisations and customers.
-    i, created the philiosothy of Cyvive: Scorched Earth because i, saw numerous examples of unreliable Information Technology (IT) crafted with good intention yet unequipped to operate beyond a single data center, region or cloud provider; i, discovered without reliable Planet Scale Foggy Computing it is impossible to secure credibility, foster intimacy, or reduce customers worry long term.
-
-    i, typically guide organisations through the quagmire of multi/poly Cloud Native Computing Foundation (CNCF) technologies so their technological foundation may be secure to all, reliable for customers, and moneterily efficiently through leveraging Scorched Earth capabilities towards zero production impact on Plant Scale Architecture.
-
-    i, walk what i, talk as seen by:
+    i, believe we use what we trust, and trusted technology serves mankind; a 5% increase of internet (cyberspace) trust results in $3000+ increase of GDP per capita.\
+    i, state that real Planet Scale or Foggy (Cloud -> Fog -> Edge -> Mist(IoT/IoP)) computing is ubiquitous, teitering on sentience and critical in building credibility and trustworthyness between organisations and customers.\\n
+    i, created the philiosothy of Cyvive: Scorched Earth because i, saw numerous examples of unreliable Information Technology (IT) crafted with good intention yet unequipped to operate beyond a single data center, region or cloud provider; i, discovered without reliable Planet Scale Foggy Computing it is impossible to secure credibility, foster intimacy, or reduce customers worry long term.\\n
+      \\n
+    i, typically guide organisations through the quagmire of multi/poly Cloud Native Computing Foundation (CNCF) technologies so their technological foundation may be secure to all, reliable for customers, and moneterily efficiently through leveraging Scorched Earth capabilities towards zero production impact on Plant Scale Architecture.\\n
+    \\\n
+    i, walk what i, talk as seen by:\\n
     - Crashed entire Regions in both Amazon Web Services (AWS) and Google Cloud Provider (GCP).
     - Advanced technological maturity of Enterprise to where they would move the entire IT infrastructure between public cloud providers within 1 hour multiple times a day.
 
@@ -56,15 +56,15 @@ awards:
     # awarder: "Manoja Tesch"
     summary: |
       i, founded Sotekton as a computer game company in 2009 where it evolved into a not-for-profit focused on researching Planet Scale Technologies.
-  - title: "World top 10 in Containerization, TechCrunch Disrupt - USA"
+  - title: World top 10 in Containerization, TechCrunch Disrupt - USA
     date: "2018-09-06"
     # awarder: "TechCrunch Disrupt - USA"
-    summary: |
-      Fathomable and Foggy Ubiquity's advanced security, immutability and Machine Learning (ML) optimisation of CNCF on all major public cloud providers
+    # summary: |
+    #   Fathomable and Foggy Ubiquity's advanced security, immutability and Machine Learning (ML) optimisation of CNCF on all major public cloud providers
   - title: Lord of Chaos
     date: "2018-06-01"
-    summary: |
-      Crashed computing regions within Amazon Web Services (AWS), and Google Cloud Provider (GCP).
+    # summary: |
+    #   Crashed computing regions within Amazon Web Services (AWS), and Google Cloud Provider (GCP).
   - title: Seen on Channel 10, 11 and One (Australia)
     date: "2014-11-13"
     # awarder: Network Ten Intensify
@@ -76,7 +76,7 @@ awards:
   - title: Artificial Intelligence for FOREX
     date: "2006-01-01"
     # awarder: "FOREX"
-    summary: Maker of an adaptive Artificial Intelligence that understands human trading psycology increasing profits by 10%
+    # summary: Maker of an adaptive Artificial Intelligence that understands human trading psycology increasing profits by 10%
 
 skills:
   - name: Planet Scale
@@ -128,7 +128,7 @@ skills:
       - IBM
 
 volunteer:
-  - organisation: Cyvizen
+  - organization: Cyvizen
     position: Maintainer, maker
     # website: "https://www.atlassian.com/"
     startDate: "2022-01-01"
@@ -138,7 +138,7 @@ volunteer:
     highlights:
       - "[ uplift ] node-to-node mTLS/WireGuard"
       - "[ upskill ] Base Containers"
-  - organisation: Containizen
+  - organization: Containizen
     position: Maintainer, creator
     website: "https://hub.docker.com/r/foggyubiquity/containizen"
     startDate: "2017-04-02"
