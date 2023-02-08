@@ -9,15 +9,15 @@ basics:
   phone: "+61 407 137 451"
   website: "https://keidrych.fyi"
   summary: |
-    i, believe we use what we trust, and trusted technology serves mankind; a 5% increase of internet (cyberspace) trust results in $3000+ increase of GDP per capita.\
+    i, believe we use what we trust, and trusted technology serves mankind; a 5% increase in internet (cyberspace) trust results in a $3000+ increase in GDP per capita.\
     \
-    i, state that real Planet Scale or Foggy (Cloud -> Fog -> Edge -> Mist(IoT/IoP)) computing is ubiquitous, teitering on sentience and critical in building credibility and trustworthyness between organisations and customers.\
+    i, state that real Planet-Scale or Foggy (Cloud -> Fog -> Edge -> Mist(IoT/IoP)) computing is ubiquitous, teetering on sentience and critical in building credibility and trustworthiness between organisations and customers.\
     \
-    i, created the philiosothy of Cyvive: Scorched Earth because i, saw numerous examples of unreliable Information Technology (IT) crafted with good intention yet unequipped to operate beyond a single data center, region or cloud provider; i, discovered without reliable Planet Scale Foggy Computing it is impossible to secure credibility, foster intimacy, or reduce customers worry long term.\
+    i, created the philosophy of Cyvive: Scorched Earth because i, saw numerous examples of unreliable Information Technology (IT) crafted with good intention yet unequipped to operate beyond a single data centre, region or cloud provider; i, discovered without reliable Planet-Scale Foggy Computing, it is impossible to secure credibility, foster intimacy, or reduce customers worry long term.\
     \
-    i, typically guide organisations through the quagmire of multi/poly Cloud Native Computing Foundation (CNCF) technologies so their technological foundation may be secure to all, reliable for customers, and moneterily efficiently through leveraging Scorched Earth capabilities towards zero production impact on Plant Scale Architecture.\
+    i, typically guide organisations through the quagmire of multi/poly Cloud Native Computing Foundation (CNCF) technologies so their technological foundation may be secure to all, reliable for customers, and monetarily efficient through leveraging Scorched Earth capabilities towards zero production impact on Plant Scale Architecture.\
     \
-    i, have helped companies in Asia, Europe, USA, Oceania.\
+    i, have helped companies in Asia, Europe, the USA, and Oceania.\
     i, have been invited to speak at events such as; CeBit (Australia), Robotic Process Automation (RPA) Brisbane, HackerX (Brisbane), Venture Summit (USA), TechCrunch (USA) & various Engineering Meetups & technology enthusiast groups
   location:
     postalCode: "4350"
@@ -35,7 +35,11 @@ publications:
     releaseDate: "2018-02-01"
     # url: ""
     summary: |
-      Creator of a Configuration & Continuous Delivery Meta Language in collaborating with 3 Universities & 35 Industry Publications.
+      Creator of a Configuration & Continuous Delivery Meta Language in collaboration with 3 Universities & 35 Industry Publications.
+  - name: leGate
+    releaseDate: "2018-07-05"
+    summary: |
+      Maker of automated registration endpoint for machine registration with inbuilt DDoS protection
   - name: Fathomable
     # publisher: DockerHub
     releaseDate: "2018-03-15"
@@ -44,10 +48,16 @@ publications:
       Maker of an Operational & Governance Platform for Kubernetes, compatible with all major public cloud and bare metal servers.
   - name: Espial
     # publisher: DockerHub
+    releaseDate: "2017-02-28"
+    # url: ""
+    summary: |
+      Creator of a machine learning based multi-device user tracking and aggregation technology for multi-channel attribution
+  - name: Replicant
+    # publisher: DockerHub
     releaseDate: "2017-04-02"
     # url: ""
     summary: |
-      Unleashed a self-propogating truely serverless website onto the internet, no hosting costs beyond DNS.
+      Unleashed a self-propagating, truly serverless website onto the internet, with no hosting costs beyond DNS.
 
 awards:
   - title: Sale of company i, founded Sotekton Pty Ltd
@@ -68,7 +78,7 @@ awards:
     date: "2018-06-01"
     # summary: |
     #   Crashed computing regions within Amazon Web Services (AWS), and Google Cloud Provider (GCP).
-  - title: "Sponsor of Quasar: Beyond the Framework"
+  - title: "Sponsor of Quasar.dev: Beyond Front End Development"
     date: "2018-05-08"
   - title: TV exposure on Channel 10, 11 and One (Australia)
     date: "2014-11-13"
@@ -163,12 +173,12 @@ volunteer:
     startDate: "2022-01-01"
     endDate: ""
     summary: |
-      Cyvizen (Cyber Survival Denizen) is an integration for Digital Identify (ID) by way of a Linux Operating System that strives for equilibrium between Anonyminity/Privacy and Innovation/Security while leveraging the ability of Scorched Earthing Hardware. (Lost, Stolen, Damaged). Cyvizen is in use by Government, IT Professionals, Perpetual Travellers.
+      Cyvizen (Cyber Survival Denizen) is an integration for Digital Identify (ID) by way of a Linux Operating System that strives for equilibrium between Anonymity/Privacy and Innovation/Security while leveraging the ability of Scorched Earthing Hardware. (Lost, Stolen, Damaged). Cyvizen is in use by Government, IT Professionals, and Perpetual Travellers.
     highlights:
       - "[ Ops ] partnered with MetaBox (Clevo Australia) for OEM install & dropship"
       - "[ Ops ] validated encrypted incremental cloud sync"
       - "[ Sec ] customised panic button for whole-disk erasure"
-      - "[ Sec ] engineered by design, for defense in depth and zero trust"
+      - "[ Sec ] engineered by design, for defence in depth and zero trust"
       - "[ Sec ] hardened libraries and configuration by design"
   - organization: Containizen
     position: Maintainer, creator
@@ -176,11 +186,11 @@ volunteer:
     startDate: "2017-04-02"
     endDate: ""
     summary: |
-      Trustworthy Containers (OCI/Docker) for production environments. max security, minimal footprint production base containers. Containizen selected to be included in the Artic Code Vault where the code was placed on hardened film to survive 1000 years.
+      Trustworthy Containers (OCI/Docker) for production environments. Max security, minimal footprint production base containers. Containizen was included in the Artic Code Vault, where the code was placed on hardened film to survive 1000 years.
     highlights:
       - "[ Ops ] engineered for global content caching of layers, reducing Mean Time To Resolution (MTTR) of production issues"
       - "[ Ops ] implemented auto language detection and start capability, just drop code in and voilla"
-      - "[ Ops ] standardized language packaging processes for common software languages"
+      - "[ Ops ] standardised language packaging processes for common software languages"
       - "[ Sec ] analysed 25 container terrors and implemented removal or hardening to all"
       - "[ Sec ] architected to drop permissions, operate as read-only, and maximise TMPFS capabilities"
       - "[ Sec ] validated list of Common Vulnerabilities & Exposures (CVS) published daily"
@@ -222,7 +232,7 @@ work:
     #   Sought to baseline on industry standards, create blue/green environments on demand, streamline updates, optimise containers, upgrade security
     highlights:
       - "[ Ops ] architected zero production impact Continuous Delivery (CD)"
-      - "[ Ops ] conceptualized multi-cloud approaches for increased application uptime and reliability"
+      - "[ Ops ] conceptualised multi-cloud approaches for increased application uptime and reliability"
       - "[ Sec ] customised in-use containers for Containizen compatibility"
       - "[ Sec ] upgraded Kubernetes Secrets Management to Open Source Standards"
   - company: ANZ Bank (Finance)
@@ -234,13 +244,13 @@ work:
     #   Team responsible for constructing a planet scale next generation bank dual platforming digital and fiat currency.
     #   Sought to create a PaaS for developers to consume consistent through to production while meeting the needs of planet scale infrastructure.
     highlights:
-      - "[ Ops ] architected a secure code Audit Trail tracable to production"
+      - "[ Ops ] architected a secure code Audit Trail traceable to production"
       - "[ Ops ] decreased risk of Disaster Recovery Strategy failure through identification of vapourware"
       - "[ Ops ] evaluated ANZ's internal PaaS style platform against Foggy Ubiquity's lessons learned accelerating maturity of internal PaaS"
-      - "[ Sec ] diagnosed collaberation faiure points against InfoSec recommended patterns"
-      - "[ Sec ] diagnosed security failings of Istio and recommended more secure planet scale options"
-      - "[ Sec ] standardized Code Signing by demonstrating how fake actors can hijack commits"
-      - "[ Sec ] visualised Planet Scale Networking and mitigation approaches to risk"
+      - "[ Sec ] diagnosed collaboration failure points against InfoSec recommended patterns"
+      - "[ Sec ] diagnosed security failings of Istio and recommended more secure planet-scale options"
+      - "[ Sec ] standardised Code Signing by demonstrating how fake actors can hijack commits"
+      - "[ Sec ] visualised planet-scale networking and mitigation approaches to risk"
       - "[ SecOps ] assigned Data Sovereignty patterns for GDPR and per country legislation compliance"
   - company: NBN Co (Networking)
     position: Foggy Cloud Advisor / Architect
@@ -251,13 +261,12 @@ work:
     #   Sought to implement a centralized Kubernetes provisioning system for hundreds of small clusters consumed by different business units to counteract many 'rogue' different team Kubernetes clusters.
     highlights:
       - "[ Dev ] upgraded Kubernetes Cluster API to interface with Bare Metal Servers"
-      - "[ DevOps ] debugged AWS NVMe to allow full read write performance per NVMe specification"
-      - "[ DevOps ] promoted enabling identical and reproducable Development Environments accross the technology stack"
+      - "[ DevOps ] debugged AWS NVMe to allow full read-write performance per NVMe specification"
+      - "[ DevOps ] promoted enabling identical and reproducible Development Environments across the technology stack"
       - "[ DevSecOps ] coded an automatic nightly suspension & resume capability into non-production Kubernetes clusters reducing operating costs"
       - "[ Ops ] customised billing for per Kubernetes Cluster resource billing"
       - "[ Ops ] launched a Kubernetes on Metal automated deployment, upgrade and maintenance platform"
-      - "[ Sec ] saved Kubernetes DNS from discovery attacks"
-      - "[ Sec ] upgraded CoreOS (unsupported) to Flatcar Linux"
+      - "[ Sec ] saved Kubernetes DNS from discovery attacks preventing malicious actors"
       - "[ SecOps ] built a Kubernetes Hybrid Cloud (Metal->AWS) with transparent encrypted traffic between machines"
   - company: FriendFinder Networks (Dating)
     position: Consultant to CTO
@@ -268,12 +277,12 @@ work:
     #   Chief Technical Officer (CTO) wanted to uplift FFN to a Cloud Native Company, completing a full code rewrite multi-million lines of monolithic Perl into MicroServices via a Global Development Team.
     #   Sought acceleration of Cloud Native Computing Foundation (CNCF) technolgies in a pure Bare Metal environment without sacrificing multi-region, performance, security, or disaster recovery
     highlights:
-      - "[ DevSecOps ] standardized Continuous Integration (CI) & Continuous Delivery (CD) within a fully automated isolated environment increasing efficiency and security"
+      - "[ DevSecOps ] standardised Continuous Integration (CI) & Continuous Delivery (CD) within a fully automated isolated environment increasing efficiency and security"
       - "[ Ops ] removed VMWare by coding IPXE compatibility for Kubernetes to run directly on Bare Metal, saving over 100K in license fees"
       - "[ Ops ] restructured to Failover Edge Routing allowing zero downtime for deployments"
       - "[ SecOps ] architected Kubernetes on Bare Metal as a multi data-center mesh with encrypted traffic between machines"
       - "[ SecOps ] restructured white-label routing via secure tunnel direct to cluster blocking access to malicious actors"
-      - "[ SecOps ] visualised how Shadow Environments would reduce production defects and boost security increasing trust of customers"
+      - "[ SecOps ] visualised how Shadow Environments would reduce production defects and boost security, increasing trust of customers"
   - company: Maestro Interactive (Streaming)
     position: CTO (Cloud)
     website: "https://info.maestro.io/"
@@ -283,12 +292,12 @@ work:
     #   Startup providing user interavice live streams for gaming, music concerts, grammys and more. Any disruption in service resulted in clients abandoning the service.
     #   Sought to push beyond their concurrency limits towards planet scale networking while optimising billing
     highlights:
-      - "[ DevOps ] optimised NodeJS memory, throughput, and concurrency stabilizing application at scale on multiple cloud regions"
+      - "[ DevOps ] optimised NodeJS memory, throughput, and concurrency stabilising application at scale on multiple cloud regions"
       - "[ DevOps ] optimised billing by correcting scaling performance and infrastructure needs resulting in 10x reduction in cloud computing costs"
       - "[ Ops ] arbitrated removal of Service Mesh, enabling 10x stream concurrency"
-      - "[ Ops ] discovered, a world first work-around to KubeDNS scaling issues at volume with GCP. Google published this discovery on their relevant FAQ page"
+      - "[ Ops ] discovered a world-first work-around to KubeDNS scaling issues at volume with GCP. Google published this discovery on their relevant FAQ page"
       - "[ SecOps ] implemented dynamically re-routable Secure Web Sockets on Kubernetes removing stream interruptions on Pod relocation, critical to business success and reputation"
-      - "[ SecOps ] visualised how Shadow Environments would reduce production defects and boost security increasing trust of customers"
+      - "[ SecOps ] visualised how Shadow Environments would reduce production defects and boost security, increasing trust of customers"
   - company: DoIt International (Cloud Support)
     position: Consultant, Critical Production Support
     website: "https://www.doit-intl.com/"
@@ -322,7 +331,7 @@ work:
     #   Sought to use Kubernetes as the future tollerant platform, storage drivers were unsable in Kubernetes at the time, loss of any data carried business penalty.
     highlights:
       - "[ Ops ] architected multi-cloud and multi-region failover and recovery"
-      - "[ Sec ] analysed security weakpoints in Kubernetes implementation and hardened appropriately"
+      - "[ Sec ] analysed security weak points in Kubernetes implementation and hardened appropriately"
       - "[ Sec ] upgraded Kubernetes Secrets Management to Open Source Standards"
 
 education:
